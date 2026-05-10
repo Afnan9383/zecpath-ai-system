@@ -1,0 +1,63 @@
+{
+  "candidate_id": "string",
+  "personal_info": {
+    "full_name": "string",
+    "email": "string",
+    "phone": "string",
+    "location": "string",
+    "linkedin": "string",
+    "portfolio": "string"
+  },
+  "professional_summary": "string",
+  "skills": [
+    {
+      "skill_name": "string",
+      "skill_type": "technical | soft | tool | language",
+      "proficiency_level": "beginner | intermediate | advanced",
+      "years_of_experience": "number"
+    }
+  ],
+  "experience": [
+    {
+      "company_name": "string",
+      "designation": "string",
+      "start_date": "YYYY-MM",
+      "end_date": "YYYY-MM | Present",
+      "duration_months": "number",
+      "responsibilities": ["string"],
+      "technologies_used": ["string"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "string",
+      "institution": "string",
+      "field_of_study": "string",
+      "start_year": "number",
+      "end_year": "number",
+      "grade_or_percentage": "string"
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "string",
+      "issuing_organization": "string",
+      "issue_date": "YYYY-MM",
+      "expiry_date": "YYYY-MM | null"
+    }
+  ],
+  "projects": [
+    {
+      "project_name": "string",
+      "description": "string",
+      "technologies_used": ["string"],
+      "role": "string"
+    }
+  ],
+  "resume_metadata": {
+    "total_experience_years": "number",
+    "current_designation": "string",
+    "domain": "IT | Sales | Marketing | HR | Finance | Operations | Other",
+    "resume_score": "number"
+  }
+}

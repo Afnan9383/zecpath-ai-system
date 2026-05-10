@@ -1,0 +1,43 @@
+{
+  "job_id": "string",
+  "job_title": "string",
+  "department": "string",
+  "job_type": "full-time | part-time | internship | contract",
+  "work_mode": "remote | onsite | hybrid",
+  "location": "string",
+  "experience_required": {
+    "minimum_years": "number",
+    "maximum_years": "number"
+  },
+  "required_skills": [
+    {
+      "skill_name": "string",
+      "importance": "mandatory | preferred",
+      "minimum_proficiency": "beginner | intermediate | advanced"
+    }
+  ],
+  "responsibilities": ["string"],
+  "qualification_required": {
+    "minimum_degree": "string",
+    "preferred_field": "string"
+  },
+  "certifications_required": ["string"],
+  "salary_range": {
+    "minimum": "number",
+    "maximum": "number",
+    "currency": "string"
+  },
+  "selection_process": [
+    "ATS Screening",
+    "AI Voice Screening",
+    "HR Interview",
+    "Technical Interview",
+    "Machine Test",
+    "Final Decision"
+  ],
+  "job_metadata": {
+    "created_by": "string",
+    "created_date": "YYYY-MM-DD",
+    "status": "active | closed | draft"
+  }
+}
