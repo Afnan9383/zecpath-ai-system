@@ -1,0 +1,64 @@
+{
+  "job_id": "logistics_&_customer_service_manager",
+  "source_file": "Logistics & Customer Service Manager.txt",
+  "role_name": "Logistics & Customer Service Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 10,
+    "raw_text": "Experience: 5-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 6.0,
+    "maximum_lpa": 15.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 6.0 LPA - INR 15.0 LPA"
+  },
+  "job_description": "Ensures seamless coordination between logistics operations and customer service to enhance\ncustomer satisfaction.",
+  "responsibilities": [
+    "Manage customer service related to deliveries and logistics",
+    "Handle escalations and customer complaints",
+    "Ensure timely order fulfillment and communication",
+    "Coordinate with logistics and operations teams",
+    "Improve customer experience and service levels"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Customer relationship management",
+      "normalized_name": "customer relationship management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Communication",
+      "normalized_name": "communication",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "conflict resolution",
+      "normalized_name": "conflict resolution",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Logistics operations understanding",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics & customer service manager",
+    "skill_keywords": [
+      "customer relationship management",
+      "communication",
+      "conflict resolution",
+      "logistics"
+    ],
+    "experience_minimum_years": 5
+  }
+}

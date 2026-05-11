@@ -1,0 +1,71 @@
+{
+  "job_id": "supply_chain_analyst",
+  "source_file": "Supply Chain Analyst.txt",
+  "role_name": "Supply Chain Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 12.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 12.0 LPA"
+  },
+  "job_description": "Evaluates end-to-end supply chain performance and recommends improvements across\nprocurement, production, and distribution.",
+  "responsibilities": [
+    "Analyze supply chain data and performance metrics",
+    "Identify bottlenecks and inefficiencies",
+    "Support demand planning and inventory strategies",
+    "Collaborate with cross-functional teams",
+    "Develop reports and predictive models"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Supply chain knowledge",
+      "normalized_name": "supply chain",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "supply chain"
+      ]
+    },
+    {
+      "skill_name": "Data analytics",
+      "normalized_name": "data analytics",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "forecasting",
+      "normalized_name": "forecasting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP systems (SAP",
+      "normalized_name": "erp systems (sap",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Oracle)",
+      "normalized_name": "oracle)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "supply chain analyst",
+    "skill_keywords": [
+      "supply chain",
+      "data analytics",
+      "forecasting",
+      "erp systems (sap",
+      "oracle)"
+    ],
+    "experience_minimum_years": 2
+  }
+}

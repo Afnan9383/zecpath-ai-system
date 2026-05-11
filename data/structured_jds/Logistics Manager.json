@@ -1,0 +1,62 @@
+{
+  "job_id": "logistics_manager",
+  "source_file": "Logistics Manager.txt",
+  "role_name": "Logistics Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 12,
+    "raw_text": "Experience: 8-12 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 18.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 18.0 LPA"
+  },
+  "job_description": "Oversees end-to-end logistics operations including transportation, warehousing, and\ndistribution to ensure efficiency and cost control.",
+  "responsibilities": [
+    "Develop logistics strategies and policies",
+    "Manage transportation, warehousing, and distribution",
+    "Optimize logistics costs and service levels",
+    "Lead cross-functional teams",
+    "Monitor KPIs and performance metrics"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Strategic planning",
+      "normalized_name": "strategic planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Leadership",
+      "normalized_name": "leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "team management",
+      "normalized_name": "team management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP/WMS systems expertise",
+      "normalized_name": "erp/wms systems expertise",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics manager",
+    "skill_keywords": [
+      "strategic planning",
+      "leadership",
+      "team management",
+      "erp/wms systems expertise"
+    ],
+    "experience_minimum_years": 8
+  }
+}

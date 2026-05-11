@@ -1,0 +1,71 @@
+{
+  "job_id": "3pl_(third-party_logistics)_coordinator",
+  "source_file": "3PL (Third-Party Logistics) Coordinator.txt",
+  "role_name": "3PL (Third-Party Logistics) Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.5,
+    "maximum_lpa": 7.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.5 LPA - INR 7.5 LPA"
+  },
+  "job_description": "Acts as a liaison between the company and third-party logistics providers to ensure smooth\nlogistics operations.",
+  "responsibilities": [
+    "Coordinate with 3PL vendors for warehousing and transportation",
+    "Monitor service levels and performance",
+    "Manage contracts and SLAs",
+    "Resolve operational issues",
+    "Optimize logistics costs and efficiency"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Vendor management",
+      "normalized_name": "vendor management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Contract",
+      "normalized_name": "contract",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "SLA understanding",
+      "normalized_name": "sla understanding",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Analytical",
+      "normalized_name": "analytical",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "coordination skills",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "3pl (third-party logistics) coordinator",
+    "skill_keywords": [
+      "vendor management",
+      "contract",
+      "sla understanding",
+      "analytical",
+      "coordination"
+    ],
+    "experience_minimum_years": 2
+  }
+}

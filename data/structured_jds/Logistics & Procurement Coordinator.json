@@ -1,0 +1,71 @@
+{
+  "job_id": "logistics_&_procurement_coordinator",
+  "source_file": "Logistics & Procurement Coordinator.txt",
+  "role_name": "Logistics & Procurement Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.5,
+    "maximum_lpa": 10.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.5 LPA - INR 10.0 LPA"
+  },
+  "job_description": "Bridges procurement and logistics functions to ensure timely sourcing and delivery of\nmaterials.",
+  "responsibilities": [
+    "Coordinate procurement and transportation activities",
+    "Manage supplier communication and delivery schedules",
+    "Track purchase orders and shipments",
+    "Ensure timely material availability",
+    "Optimize procurement and logistics costs"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Procurement",
+      "normalized_name": "procurement",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "sourcing knowledge",
+      "normalized_name": "sourcing knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Vendor management",
+      "normalized_name": "vendor management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Negotiation",
+      "normalized_name": "negotiation",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "coordination skills",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics & procurement coordinator",
+    "skill_keywords": [
+      "procurement",
+      "sourcing knowledge",
+      "vendor management",
+      "negotiation",
+      "coordination"
+    ],
+    "experience_minimum_years": 2
+  }
+}

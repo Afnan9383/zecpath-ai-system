@@ -1,0 +1,92 @@
+{
+  "job_id": "production_logistics_coordinator",
+  "source_file": "Production Logistics Coordinator.txt",
+  "role_name": "Production Logistics Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.5,
+    "maximum_lpa": 8.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.5 LPA - INR 8.5 LPA"
+  },
+  "job_description": "Coordinates material flow within the production environment to ensure uninterrupted\nmanufacturing operations.",
+  "responsibilities": [
+    "Ensure timely availability of raw materials at production lines",
+    "Coordinate with procurement, warehouse, and production teams",
+    "Monitor material movement and consumption",
+    "Manage line-side inventory and minimize shortages",
+    "Support production planning and scheduling",
+    "Maintain logistics and material movement records"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Production",
+      "normalized_name": "production",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "manufacturing logistics knowledge",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Inventory",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory"
+      ]
+    },
+    {
+      "skill_name": "material handling",
+      "normalized_name": "material handling",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP systems (SAP preferred)",
+      "normalized_name": "erp systems (sap preferred)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "problem-solving skills",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "production logistics coordinator",
+    "skill_keywords": [
+      "production",
+      "logistics",
+      "inventory management",
+      "material handling",
+      "erp systems (sap preferred)",
+      "coordination",
+      "problem solving"
+    ],
+    "experience_minimum_years": 2
+  }
+}

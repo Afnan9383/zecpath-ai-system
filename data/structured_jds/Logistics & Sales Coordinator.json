@@ -1,0 +1,73 @@
+{
+  "job_id": "logistics_&_sales_coordinator",
+  "source_file": "Logistics & Sales Coordinator.txt",
+  "role_name": "Logistics & Sales Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.0,
+    "maximum_lpa": 9.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.0 LPA - INR 9.0 LPA"
+  },
+  "job_description": "Supports sales teams by ensuring product availability, timely delivery, and coordination of\nlogistics activities.",
+  "responsibilities": [
+    "Coordinate order processing and delivery schedules",
+    "Communicate with sales and logistics teams",
+    "Ensure timely fulfillment of customer orders",
+    "Track shipments and resolve delivery issues",
+    "Support sales forecasting and planning"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Sales coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "Logistics",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "order management",
+      "normalized_name": "order management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Communication",
+      "normalized_name": "communication",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "planning skills",
+      "normalized_name": "planning skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics & sales coordinator",
+    "skill_keywords": [
+      "coordination",
+      "logistics",
+      "order management",
+      "communication",
+      "planning skills"
+    ],
+    "experience_minimum_years": 2
+  }
+}

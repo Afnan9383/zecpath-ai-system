@@ -1,0 +1,94 @@
+{
+  "job_id": "digital_logistics_coordinator",
+  "source_file": "Digital Logistics Coordinator.txt",
+  "role_name": "Digital Logistics Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 12.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 12.0 LPA"
+  },
+  "job_description": "Manages logistics operations using digital platforms, ensuring real-time visibility,\nautomation, and data-driven coordination.",
+  "responsibilities": [
+    "Coordinate logistics using digital tools (TMS, WMS, ERP)",
+    "Monitor real-time shipment tracking and dashboards",
+    "Automate reporting and workflows",
+    "Collaborate with IT and operations teams",
+    "Improve digital adoption in logistics processes"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Logistics systems (ERP",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "WMS",
+      "normalized_name": "wms",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "TMS)",
+      "normalized_name": "tms)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "dashboards",
+      "normalized_name": "dashboards",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Basic automation tools",
+      "normalized_name": "basic automation tools",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "tech adaptability",
+      "normalized_name": "tech adaptability",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "digital logistics coordinator",
+    "skill_keywords": [
+      "logistics",
+      "wms",
+      "tms)",
+      "data analysis",
+      "dashboards",
+      "basic automation tools",
+      "coordination",
+      "tech adaptability"
+    ],
+    "experience_minimum_years": 2
+  }
+}

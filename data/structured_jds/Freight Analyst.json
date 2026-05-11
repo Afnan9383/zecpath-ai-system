@@ -1,0 +1,97 @@
+{
+  "job_id": "freight_analyst",
+  "source_file": "Freight Analyst.txt",
+  "role_name": "Freight Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.5,
+    "maximum_lpa": 10.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.5 LPA - INR 10.0 LPA"
+  },
+  "job_description": "Analyzes freight operations and costs to improve efficiency, reduce expenses, and optimize\ntransportation strategies.",
+  "responsibilities": [
+    "Analyze freight cost data and trends",
+    "Identify cost-saving opportunities",
+    "Evaluate carrier performance and contracts",
+    "Develop freight optimization strategies",
+    "Generate reports and dashboards",
+    "Support logistics and procurement teams"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "reporting",
+      "normalized_name": "reporting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Advanced Excel",
+      "normalized_name": "excel",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "excel"
+      ]
+    },
+    {
+      "skill_name": "SQL",
+      "normalized_name": "sql",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "sql"
+      ]
+    },
+    {
+      "skill_name": "BI tools",
+      "normalized_name": "bi tools",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Understanding of freight operations",
+      "normalized_name": "understanding of freight operations",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Analytical",
+      "normalized_name": "analytical",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "problem-solving skills",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "freight analyst",
+    "skill_keywords": [
+      "data analysis",
+      "reporting",
+      "excel",
+      "sql",
+      "bi tools",
+      "understanding of freight operations",
+      "analytical",
+      "problem solving"
+    ],
+    "experience_minimum_years": 2
+  }
+}

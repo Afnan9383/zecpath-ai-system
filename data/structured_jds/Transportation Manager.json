@@ -1,0 +1,71 @@
+{
+  "job_id": "transportation_manager",
+  "source_file": "Transportation Manager.txt",
+  "role_name": "Transportation Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 15,
+    "raw_text": "Experience: 8-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 17.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 17.0 LPA"
+  },
+  "job_description": "Manages transportation networks, fleet operations, and delivery performance.",
+  "responsibilities": [
+    "Plan transportation strategies and routes",
+    "Manage fleet and vendor relationships",
+    "Optimize delivery timelines and costs",
+    "Ensure compliance with transport regulations",
+    "Analyze transportation performance"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Route optimization",
+      "normalized_name": "route optimization",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "route optimization"
+      ]
+    },
+    {
+      "skill_name": "planning",
+      "normalized_name": "planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Vendor management",
+      "normalized_name": "vendor management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Cost control",
+      "normalized_name": "cost control",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "analytics",
+      "normalized_name": "analytics",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "transportation manager",
+    "skill_keywords": [
+      "route optimization",
+      "planning",
+      "vendor management",
+      "cost control",
+      "analytics"
+    ],
+    "experience_minimum_years": 8
+  }
+}

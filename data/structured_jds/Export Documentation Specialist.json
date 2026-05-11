@@ -1,0 +1,81 @@
+{
+  "job_id": "export_documentation_specialist",
+  "source_file": "Export Documentation Specialist.txt",
+  "role_name": "Export Documentation Specialist",
+  "role_family": "Specialist",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.5,
+    "maximum_lpa": 8.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.5 LPA - INR 8.0 LPA"
+  },
+  "job_description": "Prepares and manages export documentation required for international shipments, ensuring\naccuracy and compliance.",
+  "responsibilities": [
+    "Prepare export documents (Invoice, Packing List, Bill of Lading, Certificate of Origin)",
+    "Coordinate with banks for Letter of Credit (LC) documentation",
+    "Ensure compliance with export regulations",
+    "Maintain documentation records and filing systems",
+    "Coordinate with logistics and customs teams",
+    "Resolve documentation discrepancies"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Export documentation knowledge",
+      "normalized_name": "documentation",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "documentation"
+      ]
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Knowledge of LC",
+      "normalized_name": "knowledge of lc",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "banking procedures",
+      "normalized_name": "banking procedures",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Communication",
+      "normalized_name": "communication",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "coordination skills",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "export documentation specialist",
+    "skill_keywords": [
+      "documentation",
+      "attention to detail",
+      "knowledge of lc",
+      "banking procedures",
+      "communication",
+      "coordination"
+    ],
+    "experience_minimum_years": 2
+  }
+}

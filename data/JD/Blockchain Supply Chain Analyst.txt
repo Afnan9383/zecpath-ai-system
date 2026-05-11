@@ -1,0 +1,17 @@
+94. Blockchain Supply Chain Analyst
+Experience: 3–8 years
+Salary (India): ₹8.0 LPA – ₹22.0 LPA
+Job Description:
+Applies blockchain technology to improve transparency, traceability, and security in supply
+chain operations.
+Key Responsibilities:
+• Develop and implement blockchain-based solutions
+• Ensure secure and transparent transactions
+• Track product lifecycle and provenance
+• Collaborate with IT and supply chain teams
+• Evaluate blockchain use cases in logistics
+Skills Required:
+• Blockchain technology knowledge
+• Supply chain understanding
+• Data security and system integration
+• Analytical skills

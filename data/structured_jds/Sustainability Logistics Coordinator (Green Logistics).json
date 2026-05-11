@@ -1,0 +1,78 @@
+{
+  "job_id": "sustainability_logistics_coordinator_(green_logistics)",
+  "source_file": "Sustainability Logistics Coordinator (Green Logistics).txt",
+  "role_name": "Sustainability Logistics Coordinator (Green Logistics)",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.5,
+    "maximum_lpa": 14.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.5 LPA - INR 14.0 LPA"
+  },
+  "job_description": "Focuses on reducing environmental impact of logistics operations through sustainable\npractices and green initiatives.",
+  "responsibilities": [
+    "Implement sustainable logistics strategies",
+    "Reduce carbon footprint and emissions",
+    "Optimize packaging and transportation",
+    "Monitor sustainability KPIs",
+    "Ensure compliance with environmental regulations"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Sustainability",
+      "normalized_name": "sustainability",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "environmental knowledge",
+      "normalized_name": "environmental knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Logistics operations expertise",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Data tracking",
+      "normalized_name": "data tracking",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "reporting",
+      "normalized_name": "reporting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Regulatory awareness",
+      "normalized_name": "regulatory awareness",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "sustainability logistics coordinator (green logistics)",
+    "skill_keywords": [
+      "sustainability",
+      "environmental knowledge",
+      "logistics",
+      "data tracking",
+      "reporting",
+      "regulatory awareness"
+    ],
+    "experience_minimum_years": 3
+  }
+}

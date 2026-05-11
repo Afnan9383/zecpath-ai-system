@@ -1,0 +1,90 @@
+{
+  "job_id": "airsea_freight_specialist",
+  "source_file": "AirSea Freight Specialist.txt",
+  "role_name": "Air/Sea Freight Specialist",
+  "role_family": "Specialist",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 12.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 12.0 LPA"
+  },
+  "job_description": "Manages air and sea freight operations including shipment planning, carrier coordination, and\ndocumentation.",
+  "responsibilities": [
+    "Plan and execute air and sea shipments",
+    "Coordinate with airlines, shipping lines, and freight forwarders",
+    "Prepare and verify shipping documents",
+    "Track shipments and ensure timely delivery",
+    "Handle customs clearance coordination",
+    "Optimize freight costs and transit times"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Air",
+      "normalized_name": "air",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ocean freight expertise",
+      "normalized_name": "ocean freight expertise",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Knowledge of international shipping regulations",
+      "normalized_name": "knowledge of international shipping regulations",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Documentation",
+      "normalized_name": "documentation",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "documentation"
+      ]
+    },
+    {
+      "skill_name": "compliance",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    },
+    {
+      "skill_name": "Vendor coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "negotiation",
+      "normalized_name": "negotiation",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "air/sea freight specialist",
+    "skill_keywords": [
+      "air",
+      "ocean freight expertise",
+      "knowledge of international shipping regulations",
+      "documentation",
+      "compliance",
+      "coordination",
+      "negotiation"
+    ],
+    "experience_minimum_years": 3
+  }
+}

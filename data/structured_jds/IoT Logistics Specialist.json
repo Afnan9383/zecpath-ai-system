@@ -1,0 +1,78 @@
+{
+  "job_id": "iot_logistics_specialist",
+  "source_file": "IoT Logistics Specialist.txt",
+  "role_name": "IoT Logistics Specialist",
+  "role_family": "Specialist",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 7.0,
+    "maximum_lpa": 18.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 7.0 LPA - INR 18.0 LPA"
+  },
+  "job_description": "Implements IoT solutions to track assets, monitor conditions, and improve visibility across\nlogistics operations.",
+  "responsibilities": [
+    "Deploy IoT devices for real-time tracking",
+    "Monitor temperature, location, and condition of shipments",
+    "Analyze IoT data for insights",
+    "Integrate IoT with logistics platforms",
+    "Improve operational visibility and efficiency"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "IoT technologies",
+      "normalized_name": "iot technologies",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "sensors",
+      "normalized_name": "sensors",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Data analytics",
+      "normalized_name": "data analytics",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "integration",
+      "normalized_name": "integration",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Logistics process understanding",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Technical troubleshooting",
+      "normalized_name": "technical troubleshooting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "iot logistics specialist",
+    "skill_keywords": [
+      "iot technologies",
+      "sensors",
+      "data analytics",
+      "integration",
+      "logistics",
+      "technical troubleshooting"
+    ],
+    "experience_minimum_years": 3
+  }
+}

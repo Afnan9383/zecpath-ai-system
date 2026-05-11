@@ -1,0 +1,66 @@
+{
+  "job_id": "senior_logistics_coordinator",
+  "source_file": "Senior Logistics Coordinator.txt",
+  "role_name": "Senior Logistics Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 8,
+    "raw_text": "Experience: 5-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 10.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 10.0 LPA"
+  },
+  "job_description": "Leads and oversees complex logistics operations, ensuring efficient coordination of\nshipments, vendors, and internal teams.",
+  "responsibilities": [
+    "Manage end-to-end logistics operations",
+    "Supervise junior coordinators",
+    "Optimize delivery timelines and costs",
+    "Resolve escalations and operational issues",
+    "Generate performance and KPI reports"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Advanced logistics planning",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "ERP/WMS systems expertise",
+      "normalized_name": "erp/wms systems expertise",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Leadership",
+      "normalized_name": "leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "senior logistics coordinator",
+    "skill_keywords": [
+      "logistics",
+      "erp/wms systems expertise",
+      "leadership",
+      "problem solving"
+    ],
+    "experience_minimum_years": 5
+  }
+}

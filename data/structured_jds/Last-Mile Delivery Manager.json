@@ -1,0 +1,83 @@
+{
+  "job_id": "last-mile_delivery_manager",
+  "source_file": "Last-Mile Delivery Manager.txt",
+  "role_name": "Last-Mile Delivery Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 10,
+    "raw_text": "Experience: 5-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 6.0,
+    "maximum_lpa": 15.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 6.0 LPA - INR 15.0 LPA"
+  },
+  "job_description": "Manages last-mile delivery operations, ensuring fast, reliable, and cost-effective delivery to\ncustomers.",
+  "responsibilities": [
+    "Oversee delivery networks and partner performance",
+    "Optimize delivery routes and turnaround time",
+    "Manage delivery teams and third-party partners",
+    "Monitor KPIs such as on-time delivery and cost per delivery",
+    "Handle escalations and customer delivery issues",
+    "Improve customer experience and service levels"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Last-mile logistics expertise",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Route optimization",
+      "normalized_name": "route optimization",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "route optimization"
+      ]
+    },
+    {
+      "skill_name": "fleet coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "Vendor",
+      "normalized_name": "vendor",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "partner management",
+      "normalized_name": "partner management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Data-driven decision-making",
+      "normalized_name": "data-driven decision-making",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "last-mile delivery manager",
+    "skill_keywords": [
+      "logistics",
+      "route optimization",
+      "coordination",
+      "vendor",
+      "partner management",
+      "data-driven decision-making"
+    ],
+    "experience_minimum_years": 5
+  }
+}

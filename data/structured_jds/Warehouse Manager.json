@@ -1,0 +1,57 @@
+{
+  "job_id": "warehouse_manager",
+  "source_file": "Warehouse Manager.txt",
+  "role_name": "Warehouse Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 15,
+    "raw_text": "Experience: 8-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 7.5,
+    "maximum_lpa": 16.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 7.5 LPA - INR 16.0 LPA"
+  },
+  "job_description": "Responsible for overall warehouse operations including inventory management, storage, and\ndispatch.",
+  "responsibilities": [
+    "Manage warehouse operations and staff",
+    "Ensure efficient space utilization",
+    "Maintain inventory accuracy",
+    "Implement safety and compliance standards",
+    "Optimize warehouse processes"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Warehouse management systems (WMS)",
+      "normalized_name": "warehouse management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "warehouse management"
+      ]
+    },
+    {
+      "skill_name": "Team leadership",
+      "normalized_name": "team leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Process improvement",
+      "normalized_name": "process improvement",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "warehouse manager",
+    "skill_keywords": [
+      "warehouse management",
+      "team leadership",
+      "process improvement"
+    ],
+    "experience_minimum_years": 8
+  }
+}

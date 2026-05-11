@@ -1,0 +1,59 @@
+{
+  "job_id": "documentation_executive_(logistics)",
+  "source_file": "Documentation Executive (Logistics).txt",
+  "role_name": "Documentation Executive (Logistics)",
+  "role_family": "Executive",
+  "experience_required": {
+    "minimum_years": 0,
+    "maximum_years": 2,
+    "raw_text": "Experience: 0-2 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 2.0,
+    "maximum_lpa": 3.8,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 2.0 LPA - INR 3.8 LPA"
+  },
+  "job_description": "Manages logistics documentation ensuring compliance with regulatory and company\nstandards.",
+  "responsibilities": [
+    "Prepare invoices, packing lists, and shipping documents",
+    "Handle import/export documentation",
+    "Ensure compliance with regulations",
+    "Maintain records and filing systems",
+    "Coordinate with customs and logistics teams"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Documentation accuracy",
+      "normalized_name": "documentation",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "documentation"
+      ]
+    },
+    {
+      "skill_name": "Knowledge of logistics paperwork",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "documentation executive (logistics)",
+    "skill_keywords": [
+      "documentation",
+      "logistics",
+      "attention to detail"
+    ],
+    "experience_minimum_years": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "job_id": "order_fulfillment_associate",
+  "source_file": "Order Fulfillment Associate.txt",
+  "role_name": "Order Fulfillment Associate",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 0,
+    "maximum_years": 2,
+    "raw_text": "Experience: 0-2 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 1.8,
+    "maximum_lpa": 3.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 1.8 LPA - INR 3.5 LPA"
+  },
+  "job_description": "Handles order processing, picking, packing, and delivery coordination.",
+  "responsibilities": [
+    "Process customer orders",
+    "Coordinate picking and packing",
+    "Ensure order accuracy",
+    "Track deliveries",
+    "Handle returns and exchanges"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Order management systems",
+      "normalized_name": "order management systems",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Accuracy",
+      "normalized_name": "accuracy",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "speed",
+      "normalized_name": "speed",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Customer handling",
+      "normalized_name": "customer handling",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "order fulfillment associate",
+    "skill_keywords": [
+      "order management systems",
+      "accuracy",
+      "speed",
+      "customer handling"
+    ],
+    "experience_minimum_years": 0
+  }
+}

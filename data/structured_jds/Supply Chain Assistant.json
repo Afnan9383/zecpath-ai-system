@@ -1,0 +1,66 @@
+{
+  "job_id": "supply_chain_assistant",
+  "source_file": "Supply Chain Assistant.txt",
+  "role_name": "Supply Chain Assistant",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 0,
+    "maximum_years": 2,
+    "raw_text": "Experience: 0-2 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 2.5,
+    "maximum_lpa": 4.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 2.5 LPA - INR 4.5 LPA"
+  },
+  "job_description": "Provides support across supply chain functions including procurement, logistics, and\ninventory.",
+  "responsibilities": [
+    "Assist in demand planning",
+    "Support procurement activities",
+    "Coordinate logistics operations",
+    "Maintain supply chain data",
+    "Generate reports"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Basic supply chain knowledge",
+      "normalized_name": "supply chain",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "supply chain"
+      ]
+    },
+    {
+      "skill_name": "Analytical skills",
+      "normalized_name": "analytical skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Excel",
+      "normalized_name": "excel",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "excel"
+      ]
+    },
+    {
+      "skill_name": "reporting",
+      "normalized_name": "reporting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "supply chain assistant",
+    "skill_keywords": [
+      "supply chain",
+      "analytical skills",
+      "excel",
+      "reporting"
+    ],
+    "experience_minimum_years": 0
+  }
+}

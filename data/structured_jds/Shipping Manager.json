@@ -1,0 +1,68 @@
+{
+  "job_id": "shipping_manager",
+  "source_file": "Shipping Manager.txt",
+  "role_name": "Shipping Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 6,
+    "maximum_years": 10,
+    "raw_text": "Experience: 6-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 6.0,
+    "maximum_lpa": 12.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 6.0 LPA - INR 12.5 LPA"
+  },
+  "job_description": "Oversees shipping operations including domestic and international shipments, ensuring\ncompliance and efficiency.",
+  "responsibilities": [
+    "Manage shipping processes and schedules",
+    "Ensure proper documentation and compliance",
+    "Coordinate with carriers and freight forwarders",
+    "Monitor shipping costs and performance",
+    "Handle escalations and delivery issues"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Shipping",
+      "normalized_name": "shipping",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "logistics expertise",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Compliance knowledge",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    },
+    {
+      "skill_name": "Vendor coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "shipping manager",
+    "skill_keywords": [
+      "shipping",
+      "logistics",
+      "compliance",
+      "coordination"
+    ],
+    "experience_minimum_years": 6
+  }
+}

@@ -1,0 +1,19 @@
+46. Inventory Optimization Analyst
+Experience: 3–8 years
+Salary (India): ₹5.0 LPA – ₹14.0 LPA
+Job Description:
+Analyzes inventory data to optimize stock levels, reduce carrying costs, and prevent
+stockouts or overstocking.
+Key Responsibilities:
+• Analyze demand patterns and inventory trends
+• Optimize safety stock and reorder levels
+• Reduce excess and obsolete inventory
+• Develop inventory models and forecasts
+• Collaborate with procurement and logistics teams
+• Generate inventory performance reports and insights
+Skills Required:
+
+• Data analysis and forecasting
+• Advanced Excel, SQL, or analytics tools
+• Inventory planning techniques (EOQ, safety stock)
+• Problem-solving and analytical thinking

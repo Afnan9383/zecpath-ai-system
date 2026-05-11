@@ -1,0 +1,76 @@
+{
+  "job_id": "freight_optimization_consultant",
+  "source_file": "Freight Optimization Consultant.txt",
+  "role_name": "Freight Optimization Consultant",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 12,
+    "raw_text": "Experience: 5-12 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 10.0,
+    "maximum_lpa": 28.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 10.0 LPA - INR 28.0 LPA"
+  },
+  "job_description": "Focuses on optimizing freight operations to reduce costs and improve delivery efficiency.",
+  "responsibilities": [
+    "Analyze freight costs and carrier performance",
+    "Optimize transportation routes and modes",
+    "Negotiate freight contracts and rates",
+    "Implement cost-saving strategies",
+    "Monitor KPIs and performance metrics"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Freight",
+      "normalized_name": "freight",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "transportation expertise",
+      "normalized_name": "transportation expertise",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "cost optimization",
+      "normalized_name": "cost optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Negotiation skills",
+      "normalized_name": "negotiation skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Knowledge of TMS tools",
+      "normalized_name": "knowledge of tms tools",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "freight optimization consultant",
+    "skill_keywords": [
+      "freight",
+      "transportation expertise",
+      "data analysis",
+      "cost optimization",
+      "negotiation skills",
+      "knowledge of tms tools"
+    ],
+    "experience_minimum_years": 5
+  }
+}

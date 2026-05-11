@@ -1,0 +1,71 @@
+{
+  "job_id": "logistics_consultant",
+  "source_file": "Logistics Consultant.txt",
+  "role_name": "Logistics Consultant",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 15,
+    "raw_text": "Experience: 5-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 10.0,
+    "maximum_lpa": 30.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 10.0 LPA - INR 30.0 LPA"
+  },
+  "job_description": "Provides expert advice to organizations on improving logistics operations, reducing costs,\nand enhancing service efficiency.",
+  "responsibilities": [
+    "Analyze current logistics processes and identify gaps",
+    "Design and implement logistics strategies",
+    "Optimize transportation, warehousing, and distribution",
+    "Recommend technology solutions (WMS, TMS)",
+    "Support implementation and change management"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "End-to-end logistics expertise",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Process optimization",
+      "normalized_name": "process optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Analytical",
+      "normalized_name": "analytical",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "consulting skills",
+      "normalized_name": "consulting skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Stakeholder management",
+      "normalized_name": "stakeholder management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics consultant",
+    "skill_keywords": [
+      "logistics",
+      "process optimization",
+      "analytical",
+      "consulting skills",
+      "stakeholder management"
+    ],
+    "experience_minimum_years": 5
+  }
+}

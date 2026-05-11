@@ -1,0 +1,66 @@
+{
+  "job_id": "shipping_&_receiving_coordinator",
+  "source_file": "Shipping & Receiving Coordinator.txt",
+  "role_name": "Shipping & Receiving Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.0,
+    "maximum_lpa": 6.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.0 LPA - INR 6.0 LPA"
+  },
+  "job_description": "Oversees inbound (receiving) and outbound (shipping) operations ensuring accuracy and\ncompliance.",
+  "responsibilities": [
+    "Manage receiving and shipping processes",
+    "Verify incoming and outgoing shipments",
+    "Maintain records of shipments",
+    "Coordinate with suppliers and customers",
+    "Ensure compliance with safety and quality standards"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Warehouse",
+      "normalized_name": "warehouse management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "warehouse"
+      ]
+    },
+    {
+      "skill_name": "shipping knowledge",
+      "normalized_name": "shipping knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Documentation accuracy",
+      "normalized_name": "documentation",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "documentation"
+      ]
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "shipping & receiving coordinator",
+    "skill_keywords": [
+      "warehouse management",
+      "shipping knowledge",
+      "documentation",
+      "attention to detail"
+    ],
+    "experience_minimum_years": 2
+  }
+}

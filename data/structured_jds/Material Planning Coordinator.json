@@ -1,0 +1,86 @@
+{
+  "job_id": "material_planning_coordinator",
+  "source_file": "Material Planning Coordinator.txt",
+  "role_name": "Material Planning Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.0,
+    "maximum_lpa": 9.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.0 LPA - INR 9.0 LPA"
+  },
+  "job_description": "Plans and coordinates material requirements to ensure smooth production without delays or\nexcess inventory.",
+  "responsibilities": [
+    "Plan material requirements based on production schedules",
+    "Coordinate with procurement and suppliers",
+    "Monitor inventory levels and reorder points",
+    "Avoid stockouts and excess inventory",
+    "Track material consumption and forecast demand",
+    "Maintain planning reports and data"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Material requirement planning (MRP)",
+      "normalized_name": "material requirement planning (mrp)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Inventory",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory"
+      ]
+    },
+    {
+      "skill_name": "demand planning",
+      "normalized_name": "demand planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "forecasting",
+      "normalized_name": "forecasting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP systems (SAP",
+      "normalized_name": "erp systems (sap",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Oracle)",
+      "normalized_name": "oracle)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "material planning coordinator",
+    "skill_keywords": [
+      "material requirement planning (mrp)",
+      "inventory management",
+      "demand planning",
+      "data analysis",
+      "forecasting",
+      "erp systems (sap",
+      "oracle)"
+    ],
+    "experience_minimum_years": 2
+  }
+}

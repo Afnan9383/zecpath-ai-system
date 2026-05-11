@@ -1,0 +1,64 @@
+{
+  "job_id": "logistics_&_operations_executive",
+  "source_file": "Logistics & Operations Executive.txt",
+  "role_name": "Logistics & Operations Executive",
+  "role_family": "Executive",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 7,
+    "raw_text": "Experience: 2-7 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.5,
+    "maximum_lpa": 10.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.5 LPA - INR 10.5 LPA"
+  },
+  "job_description": "Supports overall business operations by managing logistics processes and improving\noperational efficiency.",
+  "responsibilities": [
+    "Coordinate logistics and operational workflows",
+    "Monitor process efficiency and KPIs",
+    "Identify areas for improvement",
+    "Support daily operational activities",
+    "Ensure timely delivery and service levels"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Operations management",
+      "normalized_name": "operations management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Process improvement",
+      "normalized_name": "process improvement",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Analytical",
+      "normalized_name": "analytical",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "problem-solving skills",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics & operations executive",
+    "skill_keywords": [
+      "operations management",
+      "process improvement",
+      "analytical",
+      "problem solving"
+    ],
+    "experience_minimum_years": 2
+  }
+}

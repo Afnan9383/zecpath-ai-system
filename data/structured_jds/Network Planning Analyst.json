@@ -1,0 +1,69 @@
+{
+  "job_id": "network_planning_analyst",
+  "source_file": "Network Planning Analyst.txt",
+  "role_name": "Network Planning Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 6.0,
+    "maximum_lpa": 14.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 6.0 LPA - INR 14.0 LPA"
+  },
+  "job_description": "Designs and optimizes supply chain networks including warehouse locations, transportation\nroutes, and distribution strategies.",
+  "responsibilities": [
+    "Analyze and design logistics networks",
+    "Optimize warehouse locations and transportation routes",
+    "Conduct cost-benefit analysis",
+    "Use simulation and modeling tools",
+    "Support strategic supply chain decisions"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Network modeling",
+      "normalized_name": "network modeling",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "optimization",
+      "normalized_name": "optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "simulation tools",
+      "normalized_name": "simulation tools",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Strong analytical thinking",
+      "normalized_name": "strong analytical thinking",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "network planning analyst",
+    "skill_keywords": [
+      "network modeling",
+      "optimization",
+      "data analysis",
+      "simulation tools",
+      "strong analytical thinking"
+    ],
+    "experience_minimum_years": 3
+  }
+}

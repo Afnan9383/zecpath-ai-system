@@ -1,0 +1,74 @@
+{
+  "job_id": "international_logistics_coordinator",
+  "source_file": "International Logistics Coordinator.txt",
+  "role_name": "International Logistics Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.0,
+    "maximum_lpa": 9.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.0 LPA - INR 9.0 LPA"
+  },
+  "job_description": "Coordinates international shipments, ensuring smooth movement of goods across borders\nwith proper documentation and compliance.",
+  "responsibilities": [
+    "Plan and coordinate international shipments (air/sea/road)",
+    "Communicate with freight forwarders and carriers",
+    "Track shipments and manage delivery timelines",
+    "Prepare shipping and export/import documentation",
+    "Handle Incoterms and international trade requirements",
+    "Resolve shipment delays and issues"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "International shipping knowledge",
+      "normalized_name": "international shipping knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Understanding of Incoterms",
+      "normalized_name": "understanding of incoterms",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "communication skills",
+      "normalized_name": "communication skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP/logistics software",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "international logistics coordinator",
+    "skill_keywords": [
+      "international shipping knowledge",
+      "understanding of incoterms",
+      "coordination",
+      "communication skills",
+      "logistics"
+    ],
+    "experience_minimum_years": 2
+  }
+}

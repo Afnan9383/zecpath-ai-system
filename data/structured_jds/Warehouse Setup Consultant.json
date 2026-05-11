@@ -1,0 +1,71 @@
+{
+  "job_id": "warehouse_setup_consultant",
+  "source_file": "Warehouse Setup Consultant.txt",
+  "role_name": "Warehouse Setup Consultant",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 6,
+    "maximum_years": 15,
+    "raw_text": "Experience: 6-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 12.0,
+    "maximum_lpa": 35.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 12.0 LPA - INR 35.0 LPA"
+  },
+  "job_description": "Designs and sets up warehouse facilities including layout, systems, and operational\nworkflows.",
+  "responsibilities": [
+    "Design warehouse layout and storage systems",
+    "Select and implement WMS solutions",
+    "Plan material handling equipment",
+    "Optimize space utilization and workflows",
+    "Support warehouse setup and commissioning"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Warehouse design",
+      "normalized_name": "warehouse management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "warehouse"
+      ]
+    },
+    {
+      "skill_name": "operations",
+      "normalized_name": "operations",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "WMS implementation",
+      "normalized_name": "wms implementation",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Process optimization",
+      "normalized_name": "process optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Project management",
+      "normalized_name": "project management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "warehouse setup consultant",
+    "skill_keywords": [
+      "warehouse management",
+      "operations",
+      "wms implementation",
+      "process optimization",
+      "project management"
+    ],
+    "experience_minimum_years": 6
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "job_id": "ai-based_logistics_analyst",
+  "source_file": "AI-Based Logistics Analyst.txt",
+  "role_name": "AI-Based Logistics Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 22.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 22.0 LPA"
+  },
+  "job_description": "Uses artificial intelligence and machine learning models to optimize logistics operations,\nforecasting, and decision-making.",
+  "responsibilities": [
+    "Develop predictive models for demand and logistics planning",
+    "Optimize routes, inventory, and delivery schedules",
+    "Analyze large datasets for insights",
+    "Collaborate with data science and logistics teams",
+    "Improve operational efficiency using AI"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Python",
+      "normalized_name": "python",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "python"
+      ]
+    },
+    {
+      "skill_name": "machine learning",
+      "normalized_name": "machine learning",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "machine learning"
+      ]
+    },
+    {
+      "skill_name": "data science",
+      "normalized_name": "data science",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "data science"
+      ]
+    },
+    {
+      "skill_name": "Logistics",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "supply chain knowledge",
+      "normalized_name": "supply chain",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "supply chain"
+      ]
+    },
+    {
+      "skill_name": "Statistical analysis",
+      "normalized_name": "statistical analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    },
+    {
+      "skill_name": "modeling",
+      "normalized_name": "modeling",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "ai-based logistics analyst",
+    "skill_keywords": [
+      "python",
+      "machine learning",
+      "data science",
+      "logistics",
+      "supply chain",
+      "statistical analysis",
+      "problem solving",
+      "modeling"
+    ],
+    "experience_minimum_years": 3
+  }
+}

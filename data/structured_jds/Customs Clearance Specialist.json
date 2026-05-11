@@ -1,0 +1,90 @@
+{
+  "job_id": "customs_clearance_specialist",
+  "source_file": "Customs Clearance Specialist.txt",
+  "role_name": "Customs Clearance Specialist",
+  "role_family": "Specialist",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.5,
+    "maximum_lpa": 10.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.5 LPA - INR 10.0 LPA"
+  },
+  "job_description": "Handles customs clearance processes for import and export shipments, ensuring compliance\nwith government regulations and timely clearance of goods.",
+  "responsibilities": [
+    "Prepare and submit customs documentation",
+    "Coordinate with customs brokers and authorities",
+    "Classify goods using HS codes",
+    "Calculate duties, taxes, and tariffs",
+    "Resolve customs-related issues and delays",
+    "Ensure compliance with import/export regulations"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Knowledge of customs regulations",
+      "normalized_name": "customs compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "customs"
+      ]
+    },
+    {
+      "skill_name": "procedures",
+      "normalized_name": "procedures",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "HS classification",
+      "normalized_name": "hs classification",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "tariff understanding",
+      "normalized_name": "tariff understanding",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Documentation",
+      "normalized_name": "documentation",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "documentation"
+      ]
+    },
+    {
+      "skill_name": "compliance expertise",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "customs clearance specialist",
+    "skill_keywords": [
+      "customs compliance",
+      "procedures",
+      "hs classification",
+      "tariff understanding",
+      "documentation",
+      "compliance",
+      "attention to detail"
+    ],
+    "experience_minimum_years": 3
+  }
+}

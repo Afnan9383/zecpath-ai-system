@@ -1,0 +1,71 @@
+{
+  "job_id": "blockchain_supply_chain_analyst",
+  "source_file": "Blockchain Supply Chain Analyst.txt",
+  "role_name": "Blockchain Supply Chain Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 22.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 22.0 LPA"
+  },
+  "job_description": "Applies blockchain technology to improve transparency, traceability, and security in supply\nchain operations.",
+  "responsibilities": [
+    "Develop and implement blockchain-based solutions",
+    "Ensure secure and transparent transactions",
+    "Track product lifecycle and provenance",
+    "Collaborate with IT and supply chain teams",
+    "Evaluate blockchain use cases in logistics"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Blockchain technology knowledge",
+      "normalized_name": "blockchain technology knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Supply chain understanding",
+      "normalized_name": "supply chain",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "supply chain"
+      ]
+    },
+    {
+      "skill_name": "Data security",
+      "normalized_name": "data security",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "system integration",
+      "normalized_name": "system integration",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Analytical skills",
+      "normalized_name": "analytical skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "blockchain supply chain analyst",
+    "skill_keywords": [
+      "blockchain technology knowledge",
+      "supply chain",
+      "data security",
+      "system integration",
+      "analytical skills"
+    ],
+    "experience_minimum_years": 3
+  }
+}

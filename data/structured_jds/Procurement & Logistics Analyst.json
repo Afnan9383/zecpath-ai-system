@@ -1,0 +1,78 @@
+{
+  "job_id": "procurement_&_logistics_analyst",
+  "source_file": "Procurement & Logistics Analyst.txt",
+  "role_name": "Procurement & Logistics Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.5,
+    "maximum_lpa": 13.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.5 LPA - INR 13.0 LPA"
+  },
+  "job_description": "Analyzes procurement and logistics data to optimize sourcing, supplier performance, and\ntransportation efficiency.",
+  "responsibilities": [
+    "Analyze supplier performance and procurement costs",
+    "Optimize sourcing strategies",
+    "Monitor logistics costs and performance",
+    "Support contract negotiations",
+    "Develop reports and insights"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Procurement",
+      "normalized_name": "procurement",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "logistics knowledge",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "reporting",
+      "normalized_name": "reporting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Negotiation",
+      "normalized_name": "negotiation",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "cost analysis",
+      "normalized_name": "cost analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "procurement & logistics analyst",
+    "skill_keywords": [
+      "procurement",
+      "logistics",
+      "data analysis",
+      "reporting",
+      "negotiation",
+      "cost analysis"
+    ],
+    "experience_minimum_years": 3
+  }
+}

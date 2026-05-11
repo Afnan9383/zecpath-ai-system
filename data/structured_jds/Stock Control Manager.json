@@ -1,0 +1,81 @@
+{
+  "job_id": "stock_control_manager",
+  "source_file": "Stock Control Manager.txt",
+  "role_name": "Stock Control Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 6,
+    "maximum_years": 12,
+    "raw_text": "Experience: 6-12 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 7.0,
+    "maximum_lpa": 16.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 7.0 LPA - INR 16.0 LPA"
+  },
+  "job_description": "Responsible for maintaining accurate stock levels, controlling inventory movements, and\nminimizing losses.",
+  "responsibilities": [
+    "Develop stock control policies and procedures",
+    "Monitor stock levels and inventory accuracy",
+    "Conduct audits and cycle counts",
+    "Investigate discrepancies and implement corrective actions",
+    "Coordinate with warehouse and procurement teams",
+    "Ensure compliance with inventory standards"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Inventory control systems",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory"
+      ]
+    },
+    {
+      "skill_name": "Audit",
+      "normalized_name": "audit",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "compliance knowledge",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    },
+    {
+      "skill_name": "Analytical",
+      "normalized_name": "analytical",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "reporting skills",
+      "normalized_name": "reporting skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "stock control manager",
+    "skill_keywords": [
+      "inventory management",
+      "audit",
+      "compliance",
+      "analytical",
+      "reporting skills",
+      "attention to detail"
+    ],
+    "experience_minimum_years": 6
+  }
+}

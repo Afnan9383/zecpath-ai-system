@@ -1,0 +1,83 @@
+{
+  "job_id": "shipping_line_coordinator",
+  "source_file": "Shipping Line Coordinator.txt",
+  "role_name": "Shipping Line Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.0,
+    "maximum_lpa": 9.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.0 LPA - INR 9.0 LPA"
+  },
+  "job_description": "Coordinates with shipping lines for ocean freight operations, ensuring smooth booking,\ndocumentation, and vessel scheduling.",
+  "responsibilities": [
+    "Coordinate vessel bookings and schedules",
+    "Communicate with shipping lines and port authorities",
+    "Prepare and manage shipping documentation",
+    "Track shipments and manage delays",
+    "Ensure compliance with port and shipping regulations",
+    "Handle customer and internal coordination"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Knowledge of ocean freight operations",
+      "normalized_name": "knowledge of ocean freight operations",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Documentation",
+      "normalized_name": "documentation",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "documentation"
+      ]
+    },
+    {
+      "skill_name": "compliance",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    },
+    {
+      "skill_name": "Coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "communication skills",
+      "normalized_name": "communication skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "shipping line coordinator",
+    "skill_keywords": [
+      "knowledge of ocean freight operations",
+      "documentation",
+      "compliance",
+      "coordination",
+      "communication skills",
+      "attention to detail"
+    ],
+    "experience_minimum_years": 2
+  }
+}

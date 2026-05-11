@@ -1,0 +1,62 @@
+{
+  "job_id": "logistics_team_lead",
+  "source_file": "Logistics Team Lead.txt",
+  "role_name": "Logistics Team Lead",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 8,
+    "raw_text": "Experience: 5-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 6.0,
+    "maximum_lpa": 12.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 6.0 LPA - INR 12.0 LPA"
+  },
+  "job_description": "Leads a team of logistics professionals, ensuring efficient operations and alignment with\nbusiness goals.",
+  "responsibilities": [
+    "Lead and mentor logistics team",
+    "Assign tasks and monitor performance",
+    "Ensure smooth coordination across departments",
+    "Resolve operational issues",
+    "Drive continuous improvement initiatives"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Leadership",
+      "normalized_name": "leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "team management",
+      "normalized_name": "team management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Communication skills",
+      "normalized_name": "communication skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Operational planning",
+      "normalized_name": "operational planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics team lead",
+    "skill_keywords": [
+      "leadership",
+      "team management",
+      "communication skills",
+      "operational planning"
+    ],
+    "experience_minimum_years": 5
+  }
+}

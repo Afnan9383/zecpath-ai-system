@@ -1,0 +1,55 @@
+{
+  "job_id": "freight_coordinator",
+  "source_file": "Freight Coordinator.txt",
+  "role_name": "Freight Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.0,
+    "maximum_lpa": 6.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.0 LPA - INR 6.5 LPA"
+  },
+  "job_description": "Handles freight operations including booking shipments, negotiating rates, and coordinating\nwith carriers.",
+  "responsibilities": [
+    "Arrange freight bookings (air, sea, road)",
+    "Negotiate freight rates with carriers",
+    "Track shipments and ensure on-time delivery",
+    "Manage freight documentation",
+    "Handle freight claims and discrepancies"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Freight forwarding knowledge",
+      "normalized_name": "freight forwarding knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Negotiation skills",
+      "normalized_name": "negotiation skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Knowledge of Incoterms",
+      "normalized_name": "knowledge of incoterms",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "freight coordinator",
+    "skill_keywords": [
+      "freight forwarding knowledge",
+      "negotiation skills",
+      "knowledge of incoterms"
+    ],
+    "experience_minimum_years": 2
+  }
+}

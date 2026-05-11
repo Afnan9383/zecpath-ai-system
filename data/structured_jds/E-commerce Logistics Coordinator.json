@@ -1,0 +1,90 @@
+{
+  "job_id": "e-commerce_logistics_coordinator",
+  "source_file": "E-commerce Logistics Coordinator.txt",
+  "role_name": "E-commerce Logistics Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.5,
+    "maximum_lpa": 8.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.5 LPA - INR 8.0 LPA"
+  },
+  "job_description": "Manages logistics operations for e-commerce businesses, ensuring smooth order processing,\ninventory movement, and timely deliveries.",
+  "responsibilities": [
+    "Coordinate order fulfillment from warehouse to customer",
+    "Manage courier and delivery partner relationships",
+    "Track shipments and resolve delivery issues",
+    "Monitor return (RTO) and reverse logistics processes",
+    "Ensure inventory availability and order accuracy",
+    "Maintain logistics dashboards and reports"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "E-commerce logistics",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "order management systems",
+      "normalized_name": "order management systems",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Knowledge of last-mile delivery processes",
+      "normalized_name": "knowledge of last-mile delivery processes",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "problem-solving skills",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    },
+    {
+      "skill_name": "Familiarity with platforms",
+      "normalized_name": "familiarity with platforms",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "OMS tools",
+      "normalized_name": "oms tools",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "e-commerce logistics coordinator",
+    "skill_keywords": [
+      "logistics",
+      "order management systems",
+      "knowledge of last-mile delivery processes",
+      "coordination",
+      "problem solving",
+      "familiarity with platforms",
+      "oms tools"
+    ],
+    "experience_minimum_years": 2
+  }
+}

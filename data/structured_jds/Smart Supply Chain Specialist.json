@@ -1,0 +1,73 @@
+{
+  "job_id": "smart_supply_chain_specialist",
+  "source_file": "Smart Supply Chain Specialist.txt",
+  "role_name": "Smart Supply Chain Specialist",
+  "role_family": "Specialist",
+  "experience_required": {
+    "minimum_years": 4,
+    "maximum_years": 10,
+    "raw_text": "Experience: 4-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 20.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 20.0 LPA"
+  },
+  "job_description": "Designs and manages intelligent supply chain systems using advanced technologies such as\nAI, IoT, and automation.",
+  "responsibilities": [
+    "Implement smart supply chain solutions",
+    "Integrate AI and IoT into logistics operations",
+    "Optimize supply chain visibility and decision-making",
+    "Collaborate with cross-functional and IT teams",
+    "Drive digital transformation initiatives"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Supply chain expertise",
+      "normalized_name": "supply chain",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "supply chain"
+      ]
+    },
+    {
+      "skill_name": "AI/IoT integration knowledge",
+      "normalized_name": "artificial intelligence",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "ai"
+      ]
+    },
+    {
+      "skill_name": "Data analytics",
+      "normalized_name": "data analytics",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "system design",
+      "normalized_name": "system design",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Strategic thinking",
+      "normalized_name": "strategic thinking",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "smart supply chain specialist",
+    "skill_keywords": [
+      "supply chain",
+      "artificial intelligence",
+      "data analytics",
+      "system design",
+      "strategic thinking"
+    ],
+    "experience_minimum_years": 4
+  }
+}

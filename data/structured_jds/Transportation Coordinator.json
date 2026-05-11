@@ -1,0 +1,73 @@
+{
+  "job_id": "transportation_coordinator",
+  "source_file": "Transportation Coordinator.txt",
+  "role_name": "Transportation Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.5,
+    "maximum_lpa": 7.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.5 LPA - INR 7.0 LPA"
+  },
+  "job_description": "Plans and manages transportation activities including route planning, fleet utilization, and\ndelivery tracking.",
+  "responsibilities": [
+    "Plan transportation routes and schedules",
+    "Coordinate with drivers and transport vendors",
+    "Monitor shipment progress",
+    "Optimize transportation costs",
+    "Handle delivery issues and escalations"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Route planning",
+      "normalized_name": "route planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "optimization",
+      "normalized_name": "optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Fleet coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "Problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    },
+    {
+      "skill_name": "decision-making",
+      "normalized_name": "decision-making",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "transportation coordinator",
+    "skill_keywords": [
+      "route planning",
+      "optimization",
+      "coordination",
+      "problem solving",
+      "decision-making"
+    ],
+    "experience_minimum_years": 2
+  }
+}

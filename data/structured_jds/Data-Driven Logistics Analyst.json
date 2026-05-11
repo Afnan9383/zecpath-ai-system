@@ -1,0 +1,107 @@
+{
+  "job_id": "data-driven_logistics_analyst",
+  "source_file": "Data-Driven Logistics Analyst.txt",
+  "role_name": "Data-Driven Logistics Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 6.0,
+    "maximum_lpa": 15.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 6.0 LPA - INR 15.0 LPA"
+  },
+  "job_description": "Leverages advanced data analytics to drive decision-making and improve logistics\nperformance.",
+  "responsibilities": [
+    "Analyze logistics and supply chain data",
+    "Develop dashboards and predictive insights",
+    "Identify inefficiencies and optimization opportunities",
+    "Support strategic planning",
+    "Collaborate with cross-functional teams"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Data analytics (Excel",
+      "normalized_name": "excel",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "excel"
+      ]
+    },
+    {
+      "skill_name": "SQL",
+      "normalized_name": "sql",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "sql"
+      ]
+    },
+    {
+      "skill_name": "Python",
+      "normalized_name": "python",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "python"
+      ]
+    },
+    {
+      "skill_name": "BI tools)",
+      "normalized_name": "bi tools)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Logistics",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "supply chain knowledge",
+      "normalized_name": "supply chain",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "supply chain"
+      ]
+    },
+    {
+      "skill_name": "Visualization",
+      "normalized_name": "visualization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "reporting",
+      "normalized_name": "reporting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Analytical thinking",
+      "normalized_name": "analytical thinking",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "data-driven logistics analyst",
+    "skill_keywords": [
+      "excel",
+      "sql",
+      "python",
+      "bi tools)",
+      "logistics",
+      "supply chain",
+      "visualization",
+      "reporting",
+      "analytical thinking"
+    ],
+    "experience_minimum_years": 3
+  }
+}

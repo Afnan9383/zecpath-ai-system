@@ -1,0 +1,55 @@
+{
+  "job_id": "freight_manager",
+  "source_file": "Freight Manager.txt",
+  "role_name": "Freight Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 15,
+    "raw_text": "Experience: 8-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 17.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 17.5 LPA"
+  },
+  "job_description": "Leads freight operations including carrier management, cost optimization, and shipment\nplanning.",
+  "responsibilities": [
+    "Manage freight contracts and negotiations",
+    "Optimize freight costs and routes",
+    "Monitor shipment performance",
+    "Build relationships with carriers",
+    "Handle escalations and claims"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Freight forwarding expertise",
+      "normalized_name": "freight forwarding expertise",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Negotiation skills",
+      "normalized_name": "negotiation skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Cost optimization",
+      "normalized_name": "cost optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "freight manager",
+    "skill_keywords": [
+      "freight forwarding expertise",
+      "negotiation skills",
+      "cost optimization"
+    ],
+    "experience_minimum_years": 8
+  }
+}

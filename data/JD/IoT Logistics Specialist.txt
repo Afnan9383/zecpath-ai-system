@@ -1,0 +1,18 @@
+93. IoT Logistics Specialist
+Experience: 3–8 years
+Salary (India): ₹7.0 LPA – ₹18.0 LPA
+Job Description:
+Implements IoT solutions to track assets, monitor conditions, and improve visibility across
+logistics operations.
+Key Responsibilities:
+
+• Deploy IoT devices for real-time tracking
+• Monitor temperature, location, and condition of shipments
+• Analyze IoT data for insights
+• Integrate IoT with logistics platforms
+• Improve operational visibility and efficiency
+Skills Required:
+• IoT technologies and sensors
+• Data analytics and integration
+• Logistics process understanding
+• Technical troubleshooting

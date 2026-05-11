@@ -1,0 +1,64 @@
+{
+  "job_id": "supply_chain_manager",
+  "source_file": "Supply Chain Manager.txt",
+  "role_name": "Supply Chain Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 15,
+    "raw_text": "Experience: 8-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 10.0,
+    "maximum_lpa": 25.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 10.0 LPA - INR 25.0 LPA"
+  },
+  "job_description": "Oversees the entire supply chain including procurement, production planning, logistics, and\ndistribution.",
+  "responsibilities": [
+    "Develop supply chain strategies",
+    "Manage procurement, logistics, and inventory",
+    "Optimize supply chain efficiency and cost",
+    "Collaborate with suppliers and stakeholders",
+    "Monitor KPIs and risk management"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "End-to-end supply chain expertise",
+      "normalized_name": "supply chain",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "supply chain"
+      ]
+    },
+    {
+      "skill_name": "Strategic thinking",
+      "normalized_name": "strategic thinking",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "forecasting",
+      "normalized_name": "forecasting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "supply chain manager",
+    "skill_keywords": [
+      "supply chain",
+      "strategic thinking",
+      "data analysis",
+      "forecasting"
+    ],
+    "experience_minimum_years": 8
+  }
+}

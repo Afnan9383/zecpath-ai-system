@@ -1,0 +1,84 @@
+{
+  "job_id": "fleet_operations_manager",
+  "source_file": "Fleet Operations Manager.txt",
+  "role_name": "Fleet Operations Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 6,
+    "maximum_years": 12,
+    "raw_text": "Experience: 6-12 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 18.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 18.0 LPA"
+  },
+  "job_description": "Oversees end-to-end fleet operations, ensuring optimal utilization, maintenance, compliance,\nand cost efficiency of vehicles.",
+  "responsibilities": [
+    "Manage daily fleet operations and vehicle allocation",
+    "Monitor fleet performance, fuel consumption, and maintenance schedules",
+    "Ensure compliance with transport regulations and safety standards",
+    "Optimize fleet utilization and reduce operational costs",
+    "Coordinate with drivers, vendors, and internal teams",
+    "Implement fleet management systems and telematics"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Fleet management",
+      "normalized_name": "fleet management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "vehicle operations",
+      "normalized_name": "vehicle operations",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Cost control",
+      "normalized_name": "cost control",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "budgeting",
+      "normalized_name": "budgeting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Leadership",
+      "normalized_name": "leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "vendor management",
+      "normalized_name": "vendor management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Knowledge of GPS/telematics systems",
+      "normalized_name": "knowledge of gps/telematics systems",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "fleet operations manager",
+    "skill_keywords": [
+      "fleet management",
+      "vehicle operations",
+      "cost control",
+      "budgeting",
+      "leadership",
+      "vendor management",
+      "knowledge of gps/telematics systems"
+    ],
+    "experience_minimum_years": 6
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "job_id": "freight_broker",
+  "source_file": "Freight Broker.txt",
+  "role_name": "Freight Broker",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 15.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 15.0 LPA"
+  },
+  "job_description": "Acts as an intermediary between shippers and carriers, arranging transportation of goods at\ncompetitive rates while ensuring timely delivery.",
+  "responsibilities": [
+    "Identify and onboard shippers and carriers",
+    "Negotiate freight rates and contracts",
+    "Arrange transportation and track shipments",
+    "Manage load matching and capacity planning",
+    "Resolve shipment issues and delays",
+    "Maintain relationships with clients and carriers"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Strong negotiation",
+      "normalized_name": "strong negotiation",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "sales skills",
+      "normalized_name": "sales skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Knowledge of freight markets",
+      "normalized_name": "knowledge of freight markets",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "pricing",
+      "normalized_name": "pricing",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Communication",
+      "normalized_name": "communication",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "relationship management",
+      "normalized_name": "relationship management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    },
+    {
+      "skill_name": "decision-making",
+      "normalized_name": "decision-making",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "freight broker",
+    "skill_keywords": [
+      "strong negotiation",
+      "sales skills",
+      "knowledge of freight markets",
+      "pricing",
+      "communication",
+      "relationship management",
+      "problem solving",
+      "decision-making"
+    ],
+    "experience_minimum_years": 3
+  }
+}

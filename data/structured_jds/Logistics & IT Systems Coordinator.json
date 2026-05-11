@@ -1,0 +1,71 @@
+{
+  "job_id": "logistics_&_it_systems_coordinator",
+  "source_file": "Logistics & IT Systems Coordinator.txt",
+  "role_name": "Logistics & IT Systems Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.5,
+    "maximum_lpa": 14.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.5 LPA - INR 14.0 LPA"
+  },
+  "job_description": "Manages logistics-related IT systems and ensures smooth integration between logistics\noperations and technology platforms.",
+  "responsibilities": [
+    "Maintain and support logistics systems (ERP, WMS, TMS)",
+    "Coordinate system upgrades and implementations",
+    "Troubleshoot system issues",
+    "Ensure data accuracy and system integration",
+    "Train users on logistics software"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "ERP/WMS/TMS systems knowledge",
+      "normalized_name": "erp/wms/tms systems knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Basic IT",
+      "normalized_name": "basic it",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "system integration skills",
+      "normalized_name": "system integration skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    },
+    {
+      "skill_name": "analytical skills",
+      "normalized_name": "analytical skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics & it systems coordinator",
+    "skill_keywords": [
+      "erp/wms/tms systems knowledge",
+      "basic it",
+      "system integration skills",
+      "problem solving",
+      "analytical skills"
+    ],
+    "experience_minimum_years": 3
+  }
+}

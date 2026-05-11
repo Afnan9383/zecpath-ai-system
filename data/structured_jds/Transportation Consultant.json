@@ -1,0 +1,85 @@
+{
+  "job_id": "transportation_consultant",
+  "source_file": "Transportation Consultant.txt",
+  "role_name": "Transportation Consultant",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 12,
+    "raw_text": "Experience: 5-12 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 10.0,
+    "maximum_lpa": 28.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 10.0 LPA - INR 28.0 LPA"
+  },
+  "job_description": "Advises on transportation strategies, route optimization, and fleet management to improve\nefficiency and reduce costs.",
+  "responsibilities": [
+    "Analyze transportation networks and routes",
+    "Optimize fleet utilization and scheduling",
+    "Reduce transportation costs and delivery times",
+    "Implement transportation management systems (TMS)",
+    "Improve service levels and reliability"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Transportation",
+      "normalized_name": "transportation",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "fleet management expertise",
+      "normalized_name": "fleet management expertise",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Route optimization",
+      "normalized_name": "route optimization",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "route optimization"
+      ]
+    },
+    {
+      "skill_name": "analytics",
+      "normalized_name": "analytics",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Cost control",
+      "normalized_name": "cost control",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "planning",
+      "normalized_name": "planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Vendor management",
+      "normalized_name": "vendor management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "transportation consultant",
+    "skill_keywords": [
+      "transportation",
+      "fleet management expertise",
+      "route optimization",
+      "analytics",
+      "cost control",
+      "planning",
+      "vendor management"
+    ],
+    "experience_minimum_years": 5
+  }
+}

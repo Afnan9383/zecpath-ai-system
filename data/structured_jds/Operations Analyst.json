@@ -1,0 +1,71 @@
+{
+  "job_id": "operations_analyst",
+  "source_file": "Operations Analyst.txt",
+  "role_name": "Operations Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.5,
+    "maximum_lpa": 10.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.5 LPA - INR 10.0 LPA"
+  },
+  "job_description": "Analyzes operational processes to improve efficiency, productivity, and cost-effectiveness\nacross logistics and supply chain functions.",
+  "responsibilities": [
+    "Evaluate operational workflows and processes",
+    "Identify inefficiencies and improvement areas",
+    "Develop performance metrics and KPIs",
+    "Support automation and process improvement initiatives",
+    "Generate reports and dashboards"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Process analysis",
+      "normalized_name": "process analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "optimization",
+      "normalized_name": "optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Data analytics tools",
+      "normalized_name": "data analytics tools",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    },
+    {
+      "skill_name": "critical thinking",
+      "normalized_name": "critical thinking",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "operations analyst",
+    "skill_keywords": [
+      "process analysis",
+      "optimization",
+      "data analytics tools",
+      "problem solving",
+      "critical thinking"
+    ],
+    "experience_minimum_years": 2
+  }
+}

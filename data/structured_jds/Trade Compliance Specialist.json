@@ -1,0 +1,86 @@
+{
+  "job_id": "trade_compliance_specialist",
+  "source_file": "Trade Compliance Specialist.txt",
+  "role_name": "Trade Compliance Specialist",
+  "role_family": "Specialist",
+  "experience_required": {
+    "minimum_years": 4,
+    "maximum_years": 10,
+    "raw_text": "Experience: 4-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 6.0,
+    "maximum_lpa": 14.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 6.0 LPA - INR 14.0 LPA"
+  },
+  "job_description": "Ensures that all international trade activities comply with local and global trade regulations,\nlaws, and company policies.",
+  "responsibilities": [
+    "Ensure compliance with import/export laws and regulations",
+    "Monitor trade policies and regulatory changes",
+    "Conduct compliance audits and risk assessments",
+    "Manage export controls and restricted goods",
+    "Train teams on compliance requirements",
+    "Maintain documentation and compliance records"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Trade compliance",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    },
+    {
+      "skill_name": "regulatory knowledge",
+      "normalized_name": "regulatory knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Risk management",
+      "normalized_name": "risk management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "auditing",
+      "normalized_name": "auditing",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Analytical",
+      "normalized_name": "analytical",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "legal understanding",
+      "normalized_name": "legal understanding",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "trade compliance specialist",
+    "skill_keywords": [
+      "compliance",
+      "regulatory knowledge",
+      "risk management",
+      "auditing",
+      "analytical",
+      "legal understanding",
+      "attention to detail"
+    ],
+    "experience_minimum_years": 4
+  }
+}

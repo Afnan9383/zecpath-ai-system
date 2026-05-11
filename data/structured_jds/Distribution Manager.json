@@ -1,0 +1,71 @@
+{
+  "job_id": "distribution_manager",
+  "source_file": "Distribution Manager.txt",
+  "role_name": "Distribution Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 15,
+    "raw_text": "Experience: 8-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.5,
+    "maximum_lpa": 18.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.5 LPA - INR 18.0 LPA"
+  },
+  "job_description": "Leads distribution operations ensuring efficient movement of goods from warehouses to\ncustomers.",
+  "responsibilities": [
+    "Manage distribution networks and channels",
+    "Optimize delivery schedules and routes",
+    "Monitor service levels and customer satisfaction",
+    "Coordinate with logistics and warehouse teams",
+    "Improve distribution efficiency"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Distribution planning",
+      "normalized_name": "distribution planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Analytical",
+      "normalized_name": "analytical",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "decision-making skills",
+      "normalized_name": "decision-making skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "leadership",
+      "normalized_name": "leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "distribution manager",
+    "skill_keywords": [
+      "distribution planning",
+      "analytical",
+      "decision-making skills",
+      "coordination",
+      "leadership"
+    ],
+    "experience_minimum_years": 8
+  }
+}

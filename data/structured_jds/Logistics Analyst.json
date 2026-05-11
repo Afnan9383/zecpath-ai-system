@@ -1,0 +1,86 @@
+{
+  "job_id": "logistics_analyst",
+  "source_file": "Logistics Analyst.txt",
+  "role_name": "Logistics Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.5,
+    "maximum_lpa": 10.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.5 LPA - INR 10.0 LPA"
+  },
+  "job_description": "Analyzes logistics operations to improve efficiency, reduce costs, and enhance service levels\nusing data-driven insights.",
+  "responsibilities": [
+    "Analyze transportation and warehouse data",
+    "Identify inefficiencies and cost-saving opportunities",
+    "Track KPIs such as delivery time and cost per shipment",
+    "Prepare dashboards and reports",
+    "Support logistics strategy and decision-making"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Data analysis (Excel",
+      "normalized_name": "excel",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "excel"
+      ]
+    },
+    {
+      "skill_name": "SQL",
+      "normalized_name": "sql",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "sql"
+      ]
+    },
+    {
+      "skill_name": "Power BI/Tableau)",
+      "normalized_name": "power bi",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "power bi"
+      ]
+    },
+    {
+      "skill_name": "Logistics process knowledge",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    },
+    {
+      "skill_name": "analytical thinking",
+      "normalized_name": "analytical thinking",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics analyst",
+    "skill_keywords": [
+      "excel",
+      "sql",
+      "power bi",
+      "logistics",
+      "problem solving",
+      "analytical thinking"
+    ],
+    "experience_minimum_years": 2
+  }
+}

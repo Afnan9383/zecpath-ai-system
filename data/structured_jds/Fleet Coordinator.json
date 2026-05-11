@@ -1,0 +1,64 @@
+{
+  "job_id": "fleet_coordinator",
+  "source_file": "Fleet Coordinator.txt",
+  "role_name": "Fleet Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.0,
+    "maximum_lpa": 6.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.0 LPA - INR 6.5 LPA"
+  },
+  "job_description": "Manages company or vendor fleet operations ensuring efficient vehicle utilization and\nmaintenance.",
+  "responsibilities": [
+    "Monitor vehicle schedules and availability",
+    "Coordinate maintenance and repairs",
+    "Track fuel usage and costs",
+    "Ensure compliance with regulations",
+    "Optimize fleet utilization"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Fleet management systems",
+      "normalized_name": "fleet management systems",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Cost control",
+      "normalized_name": "cost control",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "planning",
+      "normalized_name": "planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "fleet coordinator",
+    "skill_keywords": [
+      "fleet management systems",
+      "cost control",
+      "coordination",
+      "planning"
+    ],
+    "experience_minimum_years": 2
+  }
+}

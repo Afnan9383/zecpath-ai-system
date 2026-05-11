@@ -1,0 +1,59 @@
+{
+  "job_id": "importexport_manager",
+  "source_file": "ImportExport Manager.txt",
+  "role_name": "Import/Export Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 15,
+    "raw_text": "Experience: 8-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.5,
+    "maximum_lpa": 18.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.5 LPA - INR 18.0 LPA"
+  },
+  "job_description": "Manages international trade operations including imports, exports, and compliance with\nglobal regulations.",
+  "responsibilities": [
+    "Oversee import/export operations",
+    "Ensure compliance with trade laws and regulations",
+    "Manage customs clearance and documentation",
+    "Coordinate with international vendors",
+    "Optimize international logistics costs"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "International trade regulations",
+      "normalized_name": "international trade regulations",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Documentation expertise",
+      "normalized_name": "documentation",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "documentation"
+      ]
+    },
+    {
+      "skill_name": "Vendor coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "import/export manager",
+    "skill_keywords": [
+      "international trade regulations",
+      "documentation",
+      "coordination"
+    ],
+    "experience_minimum_years": 8
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "job_id": "inventory_optimization_consultant",
+  "source_file": "Inventory Optimization Consultant.txt",
+  "role_name": "Inventory Optimization Consultant",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 12,
+    "raw_text": "Experience: 5-12 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 10.0,
+    "maximum_lpa": 30.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 10.0 LPA - INR 30.0 LPA"
+  },
+  "job_description": "Helps organizations optimize inventory levels to balance cost and service levels.",
+  "responsibilities": [
+    "Analyze inventory data and demand patterns",
+    "Optimize safety stock and reorder points",
+    "Reduce excess and obsolete inventory",
+    "Implement inventory planning tools",
+    "Improve inventory turnover and accuracy"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Inventory planning",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory"
+      ]
+    },
+    {
+      "skill_name": "forecasting",
+      "normalized_name": "forecasting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Data analytics",
+      "normalized_name": "data analytics",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "modeling",
+      "normalized_name": "modeling",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP systems",
+      "normalized_name": "erp systems",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Problem-solving skills",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "inventory optimization consultant",
+    "skill_keywords": [
+      "inventory management",
+      "forecasting",
+      "data analytics",
+      "modeling",
+      "erp systems",
+      "problem solving"
+    ],
+    "experience_minimum_years": 5
+  }
+}

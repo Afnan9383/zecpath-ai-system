@@ -1,0 +1,59 @@
+{
+  "job_id": "warehouse_coordinator",
+  "source_file": "Warehouse Coordinator.txt",
+  "role_name": "Warehouse Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 0,
+    "maximum_years": 2,
+    "raw_text": "Experience: 0-2 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 2.2,
+    "maximum_lpa": 4.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 2.2 LPA - INR 4.0 LPA"
+  },
+  "job_description": "Coordinates warehouse activities including inventory handling, storage, and dispatch support.",
+  "responsibilities": [
+    "Manage goods receipt and storage",
+    "Coordinate picking, packing, and dispatch",
+    "Monitor stock levels",
+    "Ensure warehouse safety and organization",
+    "Maintain inventory records"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Warehouse operations knowledge",
+      "normalized_name": "warehouse management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "warehouse"
+      ]
+    },
+    {
+      "skill_name": "Inventory tracking",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory"
+      ]
+    },
+    {
+      "skill_name": "Organizational skills",
+      "normalized_name": "organizational skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "warehouse coordinator",
+    "skill_keywords": [
+      "warehouse management",
+      "inventory management",
+      "organizational skills"
+    ],
+    "experience_minimum_years": 0
+  }
+}

@@ -1,0 +1,18 @@
+42. Route Planning Analyst
+Experience: 3–7 years
+Salary (India): ₹5.0 LPA – ₹12.0 LPA
+Job Description:
+Analyzes and designs optimal transportation routes to improve delivery efficiency and reduce
+logistics costs.
+Key Responsibilities:
+• Develop and optimize delivery routes using data analytics
+• Analyze traffic patterns, delivery schedules, and constraints
+• Use routing software and GIS tools
+• Reduce transportation time and fuel costs
+• Support last-mile and distribution planning
+• Generate performance and optimization reports
+Skills Required:
+• Data analysis and optimization techniques
+• Knowledge of routing tools (GIS, TMS)
+• Strong Excel and analytical skills
+• Problem-solving mindset

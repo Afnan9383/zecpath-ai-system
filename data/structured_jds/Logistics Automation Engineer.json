@@ -1,0 +1,78 @@
+{
+  "job_id": "logistics_automation_engineer",
+  "source_file": "Logistics Automation Engineer.txt",
+  "role_name": "Logistics Automation Engineer",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 4,
+    "maximum_years": 10,
+    "raw_text": "Experience: 4-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 7.0,
+    "maximum_lpa": 20.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 7.0 LPA - INR 20.0 LPA"
+  },
+  "job_description": "Designs and implements automation solutions in warehouses and logistics operations using\nrobotics and automated systems.",
+  "responsibilities": [
+    "Develop and deploy automation systems (AGVs, conveyors, robotics)",
+    "Improve warehouse and logistics efficiency",
+    "Integrate automation with WMS and ERP systems",
+    "Monitor system performance and maintenance",
+    "Support digital transformation initiatives"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Automation",
+      "normalized_name": "automation",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "robotics knowledge",
+      "normalized_name": "robotics knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Industrial engineering",
+      "normalized_name": "industrial engineering",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "System integration skills",
+      "normalized_name": "system integration skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    },
+    {
+      "skill_name": "innovation",
+      "normalized_name": "innovation",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics automation engineer",
+    "skill_keywords": [
+      "automation",
+      "robotics knowledge",
+      "industrial engineering",
+      "system integration skills",
+      "problem solving",
+      "innovation"
+    ],
+    "experience_minimum_years": 4
+  }
+}

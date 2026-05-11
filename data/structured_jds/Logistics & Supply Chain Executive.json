@@ -1,0 +1,73 @@
+{
+  "job_id": "logistics_&_supply_chain_executive",
+  "source_file": "Logistics & Supply Chain Executive.txt",
+  "role_name": "Logistics & Supply Chain Executive",
+  "role_family": "Executive",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.0,
+    "maximum_lpa": 9.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.0 LPA - INR 9.0 LPA"
+  },
+  "job_description": "Handles integrated supply chain and logistics operations, ensuring smooth coordination\nbetween procurement, inventory, and distribution.",
+  "responsibilities": [
+    "Coordinate logistics and supply chain activities",
+    "Monitor inventory and order fulfillment",
+    "Support demand planning and procurement",
+    "Track shipments and resolve issues",
+    "Generate supply chain performance reports"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "End-to-end supply chain knowledge",
+      "normalized_name": "supply chain",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "supply chain"
+      ]
+    },
+    {
+      "skill_name": "ERP systems (SAP",
+      "normalized_name": "erp systems (sap",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Oracle)",
+      "normalized_name": "oracle)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "analytical skills",
+      "normalized_name": "analytical skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics & supply chain executive",
+    "skill_keywords": [
+      "supply chain",
+      "erp systems (sap",
+      "oracle)",
+      "coordination",
+      "analytical skills"
+    ],
+    "experience_minimum_years": 2
+  }
+}

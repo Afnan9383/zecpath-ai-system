@@ -1,0 +1,88 @@
+{
+  "job_id": "route_planning_analyst",
+  "source_file": "Route Planning Analyst.txt",
+  "role_name": "Route Planning Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 7,
+    "raw_text": "Experience: 3-7 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 12.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 12.0 LPA"
+  },
+  "job_description": "Analyzes and designs optimal transportation routes to improve delivery efficiency and reduce\nlogistics costs.",
+  "responsibilities": [
+    "Develop and optimize delivery routes using data analytics",
+    "Analyze traffic patterns, delivery schedules, and constraints",
+    "Use routing software and GIS tools",
+    "Reduce transportation time and fuel costs",
+    "Support last-mile and distribution planning",
+    "Generate performance and optimization reports"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "optimization techniques",
+      "normalized_name": "optimization techniques",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Knowledge of routing tools (GIS",
+      "normalized_name": "knowledge of routing tools (gis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "TMS)",
+      "normalized_name": "tms)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Strong Excel",
+      "normalized_name": "excel",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "excel"
+      ]
+    },
+    {
+      "skill_name": "analytical skills",
+      "normalized_name": "analytical skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Problem-solving mindset",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "route planning analyst",
+    "skill_keywords": [
+      "data analysis",
+      "optimization techniques",
+      "knowledge of routing tools (gis",
+      "tms)",
+      "excel",
+      "analytical skills",
+      "problem solving"
+    ],
+    "experience_minimum_years": 3
+  }
+}

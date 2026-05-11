@@ -1,0 +1,82 @@
+{
+  "job_id": "warehouse_operations_manager",
+  "source_file": "Warehouse Operations Manager.txt",
+  "role_name": "Warehouse Operations Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 6,
+    "maximum_years": 12,
+    "raw_text": "Experience: 6-12 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 18.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 18.0 LPA"
+  },
+  "job_description": "Oversees end-to-end warehouse operations, ensuring efficient storage, handling, and dispatch\nof goods while maintaining safety and cost efficiency.",
+  "responsibilities": [
+    "Manage daily warehouse operations (receiving, storage, picking, packing, dispatch)",
+    "Optimize warehouse layout and space utilization",
+    "Ensure inventory accuracy and stock control",
+    "Implement warehouse management systems (WMS)",
+    "Maintain safety standards and compliance",
+    "Lead and train warehouse staff",
+    "Monitor KPIs such as order accuracy, turnaround time, and productivity"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Warehouse management systems (WMS)",
+      "normalized_name": "warehouse management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "warehouse management"
+      ]
+    },
+    {
+      "skill_name": "Team leadership",
+      "normalized_name": "team leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "workforce management",
+      "normalized_name": "workforce management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Process optimization",
+      "normalized_name": "process optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "lean practices",
+      "normalized_name": "lean practices",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Inventory control knowledge",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "warehouse operations manager",
+    "skill_keywords": [
+      "warehouse management",
+      "team leadership",
+      "workforce management",
+      "process optimization",
+      "lean practices",
+      "inventory management"
+    ],
+    "experience_minimum_years": 6
+  }
+}

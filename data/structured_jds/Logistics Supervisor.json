@@ -1,0 +1,55 @@
+{
+  "job_id": "logistics_supervisor",
+  "source_file": "Logistics Supervisor.txt",
+  "role_name": "Logistics Supervisor",
+  "role_family": "Supervisor",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 10,
+    "raw_text": "Experience: 5-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.5,
+    "maximum_lpa": 11.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.5 LPA - INR 11.0 LPA"
+  },
+  "job_description": "Supervises logistics teams and daily operations, ensuring smooth workflow and adherence to\ncompany policies.",
+  "responsibilities": [
+    "Supervise logistics staff and operations",
+    "Monitor shipment schedules and execution",
+    "Ensure compliance with safety and regulatory standards",
+    "Improve operational efficiency",
+    "Handle team training and performance evaluation"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Team management",
+      "normalized_name": "team management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Operational control",
+      "normalized_name": "operational control",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Process improvement",
+      "normalized_name": "process improvement",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics supervisor",
+    "skill_keywords": [
+      "team management",
+      "operational control",
+      "process improvement"
+    ],
+    "experience_minimum_years": 5
+  }
+}

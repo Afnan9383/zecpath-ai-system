@@ -1,0 +1,73 @@
+{
+  "job_id": "importexport_coordinator",
+  "source_file": "ImportExport Coordinator.txt",
+  "role_name": "Import/Export Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.5,
+    "maximum_lpa": 7.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.5 LPA - INR 7.5 LPA"
+  },
+  "job_description": "Manages international logistics operations including customs clearance, documentation, and\ncompliance.",
+  "responsibilities": [
+    "Handle import/export documentation",
+    "Coordinate with customs brokers and authorities",
+    "Ensure compliance with trade regulations",
+    "Track international shipments",
+    "Manage duties, taxes, and shipping costs"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Knowledge of international trade regulations",
+      "normalized_name": "knowledge of international trade regulations",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Documentation (Bill of Lading",
+      "normalized_name": "documentation",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "documentation"
+      ]
+    },
+    {
+      "skill_name": "LC",
+      "normalized_name": "lc",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "etc.)",
+      "normalized_name": "etc.)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Customs procedures",
+      "normalized_name": "customs compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "customs"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "import/export coordinator",
+    "skill_keywords": [
+      "knowledge of international trade regulations",
+      "documentation",
+      "lc",
+      "etc.)",
+      "customs compliance"
+    ],
+    "experience_minimum_years": 2
+  }
+}

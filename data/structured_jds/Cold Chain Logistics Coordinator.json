@@ -1,0 +1,81 @@
+{
+  "job_id": "cold_chain_logistics_coordinator",
+  "source_file": "Cold Chain Logistics Coordinator.txt",
+  "role_name": "Cold Chain Logistics Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.5,
+    "maximum_lpa": 10.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.5 LPA - INR 10.0 LPA"
+  },
+  "job_description": "Manages temperature-controlled logistics operations for sensitive products such as vaccines,\nbiologics, and perishable pharmaceuticals.",
+  "responsibilities": [
+    "Coordinate temperature-controlled shipments (2\u00b0C-8\u00b0C, frozen, ambient)",
+    "Monitor real-time temperature data using tracking systems",
+    "Ensure compliance with cold chain standards and regulations",
+    "Coordinate with transporters and cold storage facilities",
+    "Handle deviations and temperature excursions",
+    "Maintain documentation and audit records"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Cold chain logistics knowledge",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Understanding of GDP (Good Distribution Practices)",
+      "normalized_name": "understanding of gdp (good distribution practices)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Monitoring tools",
+      "normalized_name": "monitoring tools",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "IoT-based tracking systems",
+      "normalized_name": "iot-based tracking systems",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "compliance focus",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "cold chain logistics coordinator",
+    "skill_keywords": [
+      "logistics",
+      "understanding of gdp (good distribution practices)",
+      "monitoring tools",
+      "iot-based tracking systems",
+      "attention to detail",
+      "compliance"
+    ],
+    "experience_minimum_years": 2
+  }
+}

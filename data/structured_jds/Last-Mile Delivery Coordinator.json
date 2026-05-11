@@ -1,0 +1,76 @@
+{
+  "job_id": "last-mile_delivery_coordinator",
+  "source_file": "Last-Mile Delivery Coordinator.txt",
+  "role_name": "Last-Mile Delivery Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.5,
+    "maximum_lpa": 8.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.5 LPA - INR 8.0 LPA"
+  },
+  "job_description": "Manages last-mile delivery operations, ensuring timely and accurate delivery to end\ncustomers.",
+  "responsibilities": [
+    "Coordinate final delivery operations and schedules",
+    "Assign deliveries to drivers or delivery partners",
+    "Monitor real-time delivery tracking",
+    "Handle customer queries and delivery issues",
+    "Improve delivery speed and customer satisfaction",
+    "Ensure proof of delivery and documentation"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Last-mile logistics knowledge",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Real-time tracking tools",
+      "normalized_name": "real-time tracking tools",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Customer handling",
+      "normalized_name": "customer handling",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "Problem-solving under pressure",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "last-mile delivery coordinator",
+    "skill_keywords": [
+      "logistics",
+      "real-time tracking tools",
+      "customer handling",
+      "coordination",
+      "problem solving"
+    ],
+    "experience_minimum_years": 2
+  }
+}

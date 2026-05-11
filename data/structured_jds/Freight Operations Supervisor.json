@@ -1,0 +1,55 @@
+{
+  "job_id": "freight_operations_supervisor",
+  "source_file": "Freight Operations Supervisor.txt",
+  "role_name": "Freight Operations Supervisor",
+  "role_family": "Supervisor",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 10,
+    "raw_text": "Experience: 5-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.5,
+    "maximum_lpa": 11.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.5 LPA - INR 11.0 LPA"
+  },
+  "job_description": "Manages freight operations including carrier coordination, shipment planning, and cost\noptimization.",
+  "responsibilities": [
+    "Supervise freight booking and operations",
+    "Negotiate with carriers and vendors",
+    "Monitor shipment movement",
+    "Manage freight costs and performance",
+    "Handle claims and escalations"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Freight forwarding expertise",
+      "normalized_name": "freight forwarding expertise",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Negotiation skills",
+      "normalized_name": "negotiation skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Vendor management",
+      "normalized_name": "vendor management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "freight operations supervisor",
+    "skill_keywords": [
+      "freight forwarding expertise",
+      "negotiation skills",
+      "vendor management"
+    ],
+    "experience_minimum_years": 5
+  }
+}

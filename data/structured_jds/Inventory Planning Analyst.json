@@ -1,0 +1,64 @@
+{
+  "job_id": "inventory_planning_analyst",
+  "source_file": "Inventory Planning Analyst.txt",
+  "role_name": "Inventory Planning Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 7,
+    "raw_text": "Experience: 2-7 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 12.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 12.0 LPA"
+  },
+  "job_description": "Plans and manages inventory levels to ensure product availability while minimizing costs.",
+  "responsibilities": [
+    "Develop inventory plans and policies",
+    "Monitor stock levels and turnover",
+    "Optimize safety stock and reorder points",
+    "Analyze slow-moving and obsolete inventory",
+    "Collaborate with procurement and logistics teams"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Inventory planning techniques",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory"
+      ]
+    },
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "forecasting",
+      "normalized_name": "forecasting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP",
+      "normalized_name": "erp",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "inventory planning analyst",
+    "skill_keywords": [
+      "inventory management",
+      "data analysis",
+      "forecasting",
+      "erp"
+    ],
+    "experience_minimum_years": 2
+  }
+}

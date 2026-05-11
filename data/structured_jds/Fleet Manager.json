@@ -1,0 +1,64 @@
+{
+  "job_id": "fleet_manager",
+  "source_file": "Fleet Manager.txt",
+  "role_name": "Fleet Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 15,
+    "raw_text": "Experience: 8-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 7.0,
+    "maximum_lpa": 15.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 7.0 LPA - INR 15.0 LPA"
+  },
+  "job_description": "Manages vehicle fleet operations including maintenance, utilization, and compliance.",
+  "responsibilities": [
+    "Oversee fleet performance and availability",
+    "Manage maintenance schedules",
+    "Monitor fuel usage and costs",
+    "Ensure regulatory compliance",
+    "Optimize fleet efficiency"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Fleet management systems",
+      "normalized_name": "fleet management systems",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Cost control",
+      "normalized_name": "cost control",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Planning",
+      "normalized_name": "planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "fleet manager",
+    "skill_keywords": [
+      "fleet management systems",
+      "cost control",
+      "planning",
+      "coordination"
+    ],
+    "experience_minimum_years": 8
+  }
+}

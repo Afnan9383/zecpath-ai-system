@@ -1,0 +1,59 @@
+{
+  "job_id": "warehouse_operations_coordinator",
+  "source_file": "Warehouse Operations Coordinator.txt",
+  "role_name": "Warehouse Operations Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.5,
+    "maximum_lpa": 6.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.5 LPA - INR 6.5 LPA"
+  },
+  "job_description": "Coordinates daily warehouse operations including receiving, storage, picking, packing, and\ndispatch.",
+  "responsibilities": [
+    "Supervise warehouse activities",
+    "Ensure efficient space utilization",
+    "Coordinate picking and packing processes",
+    "Maintain safety and quality standards",
+    "Monitor warehouse KPIs"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Warehouse management systems (WMS)",
+      "normalized_name": "warehouse management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "warehouse management"
+      ]
+    },
+    {
+      "skill_name": "Process improvement",
+      "normalized_name": "process improvement",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Team coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "warehouse operations coordinator",
+    "skill_keywords": [
+      "warehouse management",
+      "process improvement",
+      "coordination"
+    ],
+    "experience_minimum_years": 2
+  }
+}

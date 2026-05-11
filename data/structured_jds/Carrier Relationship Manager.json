@@ -1,0 +1,84 @@
+{
+  "job_id": "carrier_relationship_manager",
+  "source_file": "Carrier Relationship Manager.txt",
+  "role_name": "Carrier Relationship Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 10,
+    "raw_text": "Experience: 5-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 6.0,
+    "maximum_lpa": 15.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 6.0 LPA - INR 15.0 LPA"
+  },
+  "job_description": "Manages relationships with transportation carriers and logistics vendors to ensure service\nquality and cost efficiency.",
+  "responsibilities": [
+    "Develop and maintain relationships with carriers and transport vendors",
+    "Negotiate contracts, rates, and service agreements",
+    "Monitor carrier performance and KPIs",
+    "Resolve service issues and escalations",
+    "Ensure compliance with SLAs and regulatory requirements",
+    "Identify and onboard new carriers"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Vendor",
+      "normalized_name": "vendor",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "relationship management",
+      "normalized_name": "relationship management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Negotiation",
+      "normalized_name": "negotiation",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "contract management",
+      "normalized_name": "contract management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Performance analysis",
+      "normalized_name": "performance analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Communication",
+      "normalized_name": "communication",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "stakeholder management",
+      "normalized_name": "stakeholder management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "carrier relationship manager",
+    "skill_keywords": [
+      "vendor",
+      "relationship management",
+      "negotiation",
+      "contract management",
+      "performance analysis",
+      "communication",
+      "stakeholder management"
+    ],
+    "experience_minimum_years": 5
+  }
+}

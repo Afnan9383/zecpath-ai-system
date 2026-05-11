@@ -1,0 +1,87 @@
+{
+  "job_id": "plant_logistics_manager",
+  "source_file": "Plant Logistics Manager.txt",
+  "role_name": "Plant Logistics Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 15,
+    "raw_text": "Experience: 8-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 10.0,
+    "maximum_lpa": 25.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 10.0 LPA - INR 25.0 LPA"
+  },
+  "job_description": "Oversees all logistics operations within a manufacturing plant, including inbound materials,\ninternal movement, and outbound dispatch.",
+  "responsibilities": [
+    "Manage end-to-end plant logistics operations",
+    "Oversee inbound, in-plant, and outbound logistics",
+    "Optimize material flow and storage within the plant",
+    "Ensure inventory accuracy and control",
+    "Implement lean logistics and process improvements",
+    "Manage logistics teams and vendors",
+    "Monitor KPIs such as turnaround time and cost efficiency"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Manufacturing",
+      "normalized_name": "manufacturing",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "plant logistics expertise",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "Lean manufacturing",
+      "normalized_name": "lean manufacturing",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "process optimization",
+      "normalized_name": "process optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Leadership",
+      "normalized_name": "leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "team management",
+      "normalized_name": "team management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP/WMS systems",
+      "normalized_name": "erp/wms systems",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "plant logistics manager",
+    "skill_keywords": [
+      "manufacturing",
+      "logistics",
+      "lean manufacturing",
+      "process optimization",
+      "leadership",
+      "team management",
+      "erp/wms systems"
+    ],
+    "experience_minimum_years": 8
+  }
+}

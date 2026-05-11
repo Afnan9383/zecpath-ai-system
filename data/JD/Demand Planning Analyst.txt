@@ -1,0 +1,16 @@
+59. Demand Planning Analyst
+Experience: 2–7 years
+Salary (India): ₹5.5 LPA – ₹13.0 LPA
+Job Description:
+Forecasts customer demand to ensure optimal inventory levels and avoid stockouts or
+overstocking.
+Key Responsibilities:
+• Develop demand forecasts using historical data
+• Collaborate with sales and marketing teams
+• Analyze trends and seasonal variations
+• Adjust forecasts based on market conditions
+• Improve forecast accuracy
+Skills Required:
+• Forecasting techniques
+• Statistical analysis
+• Excel, Python, or forecasting tools

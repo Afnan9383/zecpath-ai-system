@@ -1,0 +1,85 @@
+{
+  "job_id": "medical_supply_chain_coordinator",
+  "source_file": "Medical Supply Chain Coordinator.txt",
+  "role_name": "Medical Supply Chain Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 6,
+    "raw_text": "Experience: 2-6 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 4.0,
+    "maximum_lpa": 9.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 4.0 LPA - INR 9.0 LPA"
+  },
+  "job_description": "Coordinates the supply chain of medical products, ensuring availability of critical supplies\nsuch as medicines, devices, and hospital consumables.",
+  "responsibilities": [
+    "Manage procurement and distribution of medical supplies",
+    "Coordinate with hospitals, suppliers, and distributors",
+    "Track inventory levels and demand",
+    "Ensure timely delivery of critical items",
+    "Maintain regulatory compliance and documentation",
+    "Handle emergency supply requirements"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Healthcare supply chain knowledge",
+      "normalized_name": "supply chain",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "supply chain"
+      ]
+    },
+    {
+      "skill_name": "Inventory",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory"
+      ]
+    },
+    {
+      "skill_name": "demand planning",
+      "normalized_name": "demand planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "communication skills",
+      "normalized_name": "communication skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Compliance awareness",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "medical supply chain coordinator",
+    "skill_keywords": [
+      "supply chain",
+      "inventory management",
+      "demand planning",
+      "coordination",
+      "communication skills",
+      "compliance"
+    ],
+    "experience_minimum_years": 2
+  }
+}

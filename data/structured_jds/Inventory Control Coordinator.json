@@ -1,0 +1,57 @@
+{
+  "job_id": "inventory_control_coordinator",
+  "source_file": "Inventory Control Coordinator.txt",
+  "role_name": "Inventory Control Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.0,
+    "maximum_lpa": 6.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.0 LPA - INR 6.0 LPA"
+  },
+  "job_description": "Ensures accurate inventory management and control across warehouses and distribution\ncenters.",
+  "responsibilities": [
+    "Monitor stock levels and accuracy",
+    "Conduct cycle counts and audits",
+    "Analyze inventory discrepancies",
+    "Maintain inventory reports",
+    "Support demand planning"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Inventory management systems",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory management"
+      ]
+    },
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "inventory control coordinator",
+    "skill_keywords": [
+      "inventory management",
+      "data analysis",
+      "attention to detail"
+    ],
+    "experience_minimum_years": 2
+  }
+}

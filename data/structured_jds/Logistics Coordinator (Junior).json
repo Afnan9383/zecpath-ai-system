@@ -1,0 +1,57 @@
+{
+  "job_id": "logistics_coordinator_(junior)",
+  "source_file": "Logistics Coordinator (Junior).txt",
+  "role_name": "Logistics Coordinator (Junior)",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 0,
+    "maximum_years": 2,
+    "raw_text": "Experience: 0-2 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 2.5,
+    "maximum_lpa": 4.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 2.5 LPA - INR 4.5 LPA"
+  },
+  "job_description": "Coordinates inbound and outbound logistics operations, ensuring timely delivery and proper\ndocumentation.",
+  "responsibilities": [
+    "Plan and coordinate shipments",
+    "Communicate with suppliers, transporters, and customers",
+    "Monitor delivery timelines",
+    "Handle documentation and compliance",
+    "Resolve basic logistics issues"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Logistics coordination skills",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "Time management",
+      "normalized_name": "time management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP systems (SAP preferred)",
+      "normalized_name": "erp systems (sap preferred)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics coordinator (junior)",
+    "skill_keywords": [
+      "coordination",
+      "time management",
+      "erp systems (sap preferred)"
+    ],
+    "experience_minimum_years": 0
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "job_id": "inventory_optimization_analyst",
+  "source_file": "Inventory Optimization Analyst.txt",
+  "role_name": "Inventory Optimization Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 14.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 14.0 LPA"
+  },
+  "job_description": "Analyzes inventory data to optimize stock levels, reduce carrying costs, and prevent\nstockouts or overstocking.",
+  "responsibilities": [
+    "Analyze demand patterns and inventory trends",
+    "Optimize safety stock and reorder levels",
+    "Reduce excess and obsolete inventory",
+    "Develop inventory models and forecasts",
+    "Collaborate with procurement and logistics teams",
+    "Generate inventory performance reports and insights"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "forecasting",
+      "normalized_name": "forecasting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Advanced Excel",
+      "normalized_name": "excel",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "excel"
+      ]
+    },
+    {
+      "skill_name": "SQL",
+      "normalized_name": "sql",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "sql"
+      ]
+    },
+    {
+      "skill_name": "analytics tools",
+      "normalized_name": "analytics tools",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Inventory planning techniques (EOQ",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory"
+      ]
+    },
+    {
+      "skill_name": "safety stock)",
+      "normalized_name": "safety stock)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    },
+    {
+      "skill_name": "analytical thinking",
+      "normalized_name": "analytical thinking",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "inventory optimization analyst",
+    "skill_keywords": [
+      "data analysis",
+      "forecasting",
+      "excel",
+      "sql",
+      "analytics tools",
+      "inventory management",
+      "safety stock)",
+      "problem solving",
+      "analytical thinking"
+    ],
+    "experience_minimum_years": 3
+  }
+}

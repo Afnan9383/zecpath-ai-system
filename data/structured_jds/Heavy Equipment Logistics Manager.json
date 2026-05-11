@@ -1,0 +1,93 @@
+{
+  "job_id": "heavy_equipment_logistics_manager",
+  "source_file": "Heavy Equipment Logistics Manager.txt",
+  "role_name": "Heavy Equipment Logistics Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 15,
+    "raw_text": "Experience: 8-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 10.0,
+    "maximum_lpa": 25.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 10.0 LPA - INR 25.0 LPA"
+  },
+  "job_description": "Manages transportation and handling of heavy machinery and oversized cargo used in\nconstruction, oil & gas, and heavy industries.",
+  "responsibilities": [
+    "Plan and execute transportation of heavy and oversized equipment",
+    "Coordinate with transport agencies and crane operators",
+    "Ensure compliance with safety and regulatory standards",
+    "Optimize routes and transport methods for heavy cargo",
+    "Manage logistics costs and budgets",
+    "Supervise logistics teams and operations"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Heavy lift",
+      "normalized_name": "heavy lift",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "project cargo expertise",
+      "normalized_name": "project cargo expertise",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Route survey",
+      "normalized_name": "route survey",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "planning",
+      "normalized_name": "planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Safety",
+      "normalized_name": "safety",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "compliance knowledge",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    },
+    {
+      "skill_name": "Leadership",
+      "normalized_name": "leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "vendor management",
+      "normalized_name": "vendor management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "heavy equipment logistics manager",
+    "skill_keywords": [
+      "heavy lift",
+      "project cargo expertise",
+      "route survey",
+      "planning",
+      "safety",
+      "compliance",
+      "leadership",
+      "vendor management"
+    ],
+    "experience_minimum_years": 8
+  }
+}

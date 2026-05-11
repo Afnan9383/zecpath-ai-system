@@ -1,0 +1,88 @@
+{
+  "job_id": "pharma_distribution_manager",
+  "source_file": "Pharma Distribution Manager.txt",
+  "role_name": "Pharma Distribution Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 6,
+    "maximum_years": 12,
+    "raw_text": "Experience: 6-12 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 20.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 20.0 LPA"
+  },
+  "job_description": "Oversees pharmaceutical distribution networks ensuring safe, compliant, and efficient\ndelivery of medicines to distributors, hospitals, and pharmacies.",
+  "responsibilities": [
+    "Manage pharma distribution channels and partners",
+    "Ensure compliance with regulatory standards (GDP, drug regulations)",
+    "Monitor product handling, storage, and transportation",
+    "Optimize distribution network efficiency",
+    "Manage inventory across distribution points",
+    "Handle audits, compliance checks, and quality assurance"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Pharmaceutical logistics",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "compliance expertise",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    },
+    {
+      "skill_name": "Distribution network management",
+      "normalized_name": "distribution network management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Leadership",
+      "normalized_name": "leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "team management",
+      "normalized_name": "team management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Regulatory knowledge",
+      "normalized_name": "regulatory knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "audit handling",
+      "normalized_name": "audit handling",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "pharma distribution manager",
+    "skill_keywords": [
+      "logistics",
+      "compliance",
+      "distribution network management",
+      "leadership",
+      "team management",
+      "regulatory knowledge",
+      "audit handling"
+    ],
+    "experience_minimum_years": 6
+  }
+}

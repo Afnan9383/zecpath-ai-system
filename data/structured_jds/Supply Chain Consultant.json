@@ -1,0 +1,92 @@
+{
+  "job_id": "supply_chain_consultant",
+  "source_file": "Supply Chain Consultant.txt",
+  "role_name": "Supply Chain Consultant",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 6,
+    "maximum_years": 15,
+    "raw_text": "Experience: 6-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 12.0,
+    "maximum_lpa": 35.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 12.0 LPA - INR 35.0 LPA"
+  },
+  "job_description": "Advises businesses on optimizing entire supply chain operations including procurement,\nproduction, logistics, and distribution.",
+  "responsibilities": [
+    "Assess supply chain performance and risks",
+    "Design supply chain strategies and frameworks",
+    "Improve demand planning and inventory management",
+    "Implement digital supply chain solutions",
+    "Drive cost reduction and efficiency initiatives"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Supply chain strategy",
+      "normalized_name": "supply chain",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "supply chain"
+      ]
+    },
+    {
+      "skill_name": "planning",
+      "normalized_name": "planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Data analytics",
+      "normalized_name": "data analytics",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "forecasting",
+      "normalized_name": "forecasting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP",
+      "normalized_name": "erp",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "digital tools knowledge",
+      "normalized_name": "digital tools knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Consulting",
+      "normalized_name": "consulting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "presentation skills",
+      "normalized_name": "presentation skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "supply chain consultant",
+    "skill_keywords": [
+      "supply chain",
+      "planning",
+      "data analytics",
+      "forecasting",
+      "erp",
+      "digital tools knowledge",
+      "consulting",
+      "presentation skills"
+    ],
+    "experience_minimum_years": 6
+  }
+}

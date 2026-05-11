@@ -1,0 +1,57 @@
+{
+  "job_id": "inventory_control_supervisor",
+  "source_file": "Inventory Control Supervisor.txt",
+  "role_name": "Inventory Control Supervisor",
+  "role_family": "Supervisor",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 10,
+    "raw_text": "Experience: 5-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 9.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 9.5 LPA"
+  },
+  "job_description": "Ensures accurate inventory management and control processes across facilities.",
+  "responsibilities": [
+    "Oversee inventory tracking and control",
+    "Conduct audits and cycle counts",
+    "Analyze stock discrepancies",
+    "Maintain inventory reports and KPIs",
+    "Support demand planning"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Inventory management expertise",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory management"
+      ]
+    },
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "inventory control supervisor",
+    "skill_keywords": [
+      "inventory management",
+      "data analysis",
+      "attention to detail"
+    ],
+    "experience_minimum_years": 5
+  }
+}

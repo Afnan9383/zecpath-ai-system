@@ -1,0 +1,57 @@
+{
+  "job_id": "warehouse_supervisor",
+  "source_file": "Warehouse Supervisor.txt",
+  "role_name": "Warehouse Supervisor",
+  "role_family": "Supervisor",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 10,
+    "raw_text": "Experience: 5-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 10.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 10.0 LPA"
+  },
+  "job_description": "Supervises warehouse operations including storage, inventory handling, and dispatch\nactivities.",
+  "responsibilities": [
+    "Manage warehouse staff and operations",
+    "Ensure proper storage and inventory accuracy",
+    "Oversee picking, packing, and dispatch",
+    "Maintain safety and compliance standards",
+    "Improve warehouse efficiency"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Warehouse management systems (WMS)",
+      "normalized_name": "warehouse management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "warehouse management"
+      ]
+    },
+    {
+      "skill_name": "Team leadership",
+      "normalized_name": "team leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Process optimization",
+      "normalized_name": "process optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "warehouse supervisor",
+    "skill_keywords": [
+      "warehouse management",
+      "team leadership",
+      "process optimization"
+    ],
+    "experience_minimum_years": 5
+  }
+}

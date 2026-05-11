@@ -1,0 +1,93 @@
+{
+  "job_id": "fulfillment_operations_manager",
+  "source_file": "Fulfillment Operations Manager.txt",
+  "role_name": "Fulfillment Operations Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 6,
+    "maximum_years": 12,
+    "raw_text": "Experience: 6-12 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 20.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 20.0 LPA"
+  },
+  "job_description": "Oversees end-to-end fulfillment center operations in an e-commerce environment, focusing\non speed, accuracy, and scalability.",
+  "responsibilities": [
+    "Manage warehouse and fulfillment center operations",
+    "Oversee picking, packing, and shipping processes",
+    "Ensure high order accuracy and fast turnaround times",
+    "Optimize workforce planning and automation",
+    "Implement process improvements and KPIs",
+    "Manage returns and reverse logistics"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Fulfillment center",
+      "normalized_name": "fulfillment center",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "warehouse management",
+      "normalized_name": "warehouse management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "warehouse management"
+      ]
+    },
+    {
+      "skill_name": "Process optimization",
+      "normalized_name": "process optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "automation",
+      "normalized_name": "automation",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Leadership",
+      "normalized_name": "leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "team management",
+      "normalized_name": "team management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "WMS",
+      "normalized_name": "wms",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "e-commerce systems",
+      "normalized_name": "e-commerce systems",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "fulfillment operations manager",
+    "skill_keywords": [
+      "fulfillment center",
+      "warehouse management",
+      "process optimization",
+      "automation",
+      "leadership",
+      "team management",
+      "wms",
+      "e-commerce systems"
+    ],
+    "experience_minimum_years": 6
+  }
+}

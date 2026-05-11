@@ -1,0 +1,59 @@
+{
+  "job_id": "inventory_assistant",
+  "source_file": "Inventory Assistant.txt",
+  "role_name": "Inventory Assistant",
+  "role_family": "Other",
+  "experience_required": {
+    "minimum_years": 0,
+    "maximum_years": 2,
+    "raw_text": "Experience: 0-2 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 1.8,
+    "maximum_lpa": 3.2,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 1.8 LPA - INR 3.2 LPA"
+  },
+  "job_description": "Supports inventory management by tracking stock levels and ensuring data accuracy.",
+  "responsibilities": [
+    "Monitor stock levels",
+    "Update inventory records",
+    "Conduct stock audits and cycle counts",
+    "Identify discrepancies",
+    "Assist in inventory planning"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Inventory management basics",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory management"
+      ]
+    },
+    {
+      "skill_name": "Excel skills",
+      "normalized_name": "excel",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "excel"
+      ]
+    },
+    {
+      "skill_name": "Attention to detail",
+      "normalized_name": "attention to detail",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "inventory assistant",
+    "skill_keywords": [
+      "inventory management",
+      "excel",
+      "attention to detail"
+    ],
+    "experience_minimum_years": 0
+  }
+}

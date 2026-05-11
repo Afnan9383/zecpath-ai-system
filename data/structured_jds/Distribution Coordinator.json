@@ -1,0 +1,66 @@
+{
+  "job_id": "distribution_coordinator",
+  "source_file": "Distribution Coordinator.txt",
+  "role_name": "Distribution Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.5,
+    "maximum_lpa": 6.5,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.5 LPA - INR 6.5 LPA"
+  },
+  "job_description": "Coordinates distribution activities to ensure efficient delivery of goods from warehouses to\ncustomers or retail outlets.",
+  "responsibilities": [
+    "Plan distribution schedules",
+    "Coordinate with warehouses and transport teams",
+    "Monitor delivery performance",
+    "Optimize distribution routes",
+    "Maintain distribution reports"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Distribution planning",
+      "normalized_name": "distribution planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Route optimization",
+      "normalized_name": "route optimization",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "route optimization"
+      ]
+    },
+    {
+      "skill_name": "Coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "analytical skills",
+      "normalized_name": "analytical skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "distribution coordinator",
+    "skill_keywords": [
+      "distribution planning",
+      "route optimization",
+      "coordination",
+      "analytical skills"
+    ],
+    "experience_minimum_years": 2
+  }
+}

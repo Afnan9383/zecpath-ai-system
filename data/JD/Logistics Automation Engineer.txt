@@ -1,0 +1,17 @@
+92. Logistics Automation Engineer
+Experience: 4–10 years
+Salary (India): ₹7.0 LPA – ₹20.0 LPA
+Job Description:
+Designs and implements automation solutions in warehouses and logistics operations using
+robotics and automated systems.
+Key Responsibilities:
+• Develop and deploy automation systems (AGVs, conveyors, robotics)
+• Improve warehouse and logistics efficiency
+• Integrate automation with WMS and ERP systems
+• Monitor system performance and maintenance
+• Support digital transformation initiatives
+Skills Required:
+• Automation and robotics knowledge
+• Industrial engineering
+• System integration skills
+• Problem-solving and innovation

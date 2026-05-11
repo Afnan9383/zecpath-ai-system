@@ -1,0 +1,57 @@
+{
+  "job_id": "inventory_manager",
+  "source_file": "Inventory Manager.txt",
+  "role_name": "Inventory Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 8,
+    "maximum_years": 15,
+    "raw_text": "Experience: 8-15 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 7.5,
+    "maximum_lpa": 16.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 7.5 LPA - INR 16.0 LPA"
+  },
+  "job_description": "Ensures optimal inventory levels and accurate stock management across the organization.",
+  "responsibilities": [
+    "Develop inventory strategies and policies",
+    "Monitor stock levels and turnover",
+    "Reduce excess and obsolete inventory",
+    "Conduct audits and reporting",
+    "Collaborate with procurement and sales teams"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Inventory optimization",
+      "normalized_name": "inventory management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "inventory"
+      ]
+    },
+    {
+      "skill_name": "Data analysis",
+      "normalized_name": "data analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "ERP systems",
+      "normalized_name": "erp systems",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "inventory manager",
+    "skill_keywords": [
+      "inventory management",
+      "data analysis",
+      "erp systems"
+    ],
+    "experience_minimum_years": 8
+  }
+}

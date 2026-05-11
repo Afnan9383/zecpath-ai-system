@@ -1,0 +1,75 @@
+{
+  "job_id": "logistics_coordinator",
+  "source_file": "Logistics Coordinator.txt",
+  "role_name": "Logistics Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 2,
+    "maximum_years": 5,
+    "raw_text": "Experience: 2-5 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 3.5,
+    "maximum_lpa": 7.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 3.5 LPA - INR 7.0 LPA"
+  },
+  "job_description": "Manages end-to-end logistics operations including planning, execution, and monitoring of\nshipments to ensure timely delivery and cost efficiency.",
+  "responsibilities": [
+    "Plan and coordinate inbound and outbound shipments",
+    "Track shipments and resolve delays",
+    "Coordinate with vendors, transporters, and warehouses",
+    "Maintain logistics documentation and reports",
+    "Optimize logistics costs and delivery timelines"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Logistics operations management",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "ERP systems (SAP",
+      "normalized_name": "erp systems (sap",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Oracle)",
+      "normalized_name": "oracle)",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Vendor coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics coordinator",
+    "skill_keywords": [
+      "logistics",
+      "erp systems (sap",
+      "oracle)",
+      "coordination",
+      "problem solving"
+    ],
+    "experience_minimum_years": 2
+  }
+}

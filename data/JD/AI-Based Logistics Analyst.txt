@@ -1,0 +1,18 @@
+91. AI-Based Logistics Analyst
+Experience: 3–8 years
+Salary (India): ₹8.0 LPA – ₹22.0 LPA
+Job Description:
+Uses artificial intelligence and machine learning models to optimize logistics operations,
+forecasting, and decision-making.
+Key Responsibilities:
+
+• Develop predictive models for demand and logistics planning
+• Optimize routes, inventory, and delivery schedules
+• Analyze large datasets for insights
+• Collaborate with data science and logistics teams
+• Improve operational efficiency using AI
+Skills Required:
+• Python, machine learning, and data science
+• Logistics and supply chain knowledge
+• Statistical analysis
+• Problem-solving and modeling

@@ -1,0 +1,59 @@
+{
+  "job_id": "transport_coordinator",
+  "source_file": "Transport Coordinator.txt",
+  "role_name": "Transport Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 0,
+    "maximum_years": 2,
+    "raw_text": "Experience: 0-2 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 2.2,
+    "maximum_lpa": 4.2,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 2.2 LPA - INR 4.2 LPA"
+  },
+  "job_description": "Coordinates transportation operations to ensure timely delivery of goods.",
+  "responsibilities": [
+    "Plan vehicle allocation and routes",
+    "Coordinate with drivers and transport vendors",
+    "Track shipments in transit",
+    "Optimize transportation costs",
+    "Handle delivery issues"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Route planning",
+      "normalized_name": "route planning",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Vendor coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "Problem-solving skills",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "transport coordinator",
+    "skill_keywords": [
+      "route planning",
+      "coordination",
+      "problem solving"
+    ],
+    "experience_minimum_years": 0
+  }
+}

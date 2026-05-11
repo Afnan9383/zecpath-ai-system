@@ -1,0 +1,90 @@
+{
+  "job_id": "project_logistics_coordinator",
+  "source_file": "Project Logistics Coordinator.txt",
+  "role_name": "Project Logistics Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.0,
+    "maximum_lpa": 14.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.0 LPA - INR 14.0 LPA"
+  },
+  "job_description": "Coordinates logistics activities for large-scale industrial or infrastructure projects, ensuring\ntimely delivery of materials, equipment, and resources to project sites.",
+  "responsibilities": [
+    "Plan and coordinate project logistics from origin to site",
+    "Manage transportation of heavy and critical materials",
+    "Coordinate with vendors, contractors, and project teams",
+    "Track shipments and ensure on-time delivery",
+    "Handle project documentation and compliance",
+    "Identify and mitigate logistics risks"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Project logistics",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "coordination",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "Knowledge of heavy cargo handling",
+      "normalized_name": "knowledge of heavy cargo handling",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Vendor",
+      "normalized_name": "vendor",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "stakeholder management",
+      "normalized_name": "stakeholder management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Problem-solving",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    },
+    {
+      "skill_name": "planning skills",
+      "normalized_name": "planning skills",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "project logistics coordinator",
+    "skill_keywords": [
+      "logistics",
+      "coordination",
+      "knowledge of heavy cargo handling",
+      "vendor",
+      "stakeholder management",
+      "problem solving",
+      "planning skills"
+    ],
+    "experience_minimum_years": 3
+  }
+}

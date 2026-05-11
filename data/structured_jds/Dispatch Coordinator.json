@@ -1,0 +1,61 @@
+{
+  "job_id": "dispatch_coordinator",
+  "source_file": "Dispatch Coordinator.txt",
+  "role_name": "Dispatch Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 0,
+    "maximum_years": 2,
+    "raw_text": "Experience: 0-2 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 2.0,
+    "maximum_lpa": 3.8,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 2.0 LPA - INR 3.8 LPA"
+  },
+  "job_description": "Manages dispatch operations, ensuring timely shipment of goods from warehouse to\ncustomers.",
+  "responsibilities": [
+    "Schedule dispatches and deliveries",
+    "Prepare dispatch documentation (invoice, packing list)",
+    "Coordinate with warehouse and drivers",
+    "Track dispatch status",
+    "Ensure delivery accuracy"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Dispatch planning",
+      "normalized_name": "dispatch planning",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "dispatch planning"
+      ]
+    },
+    {
+      "skill_name": "Documentation accuracy",
+      "normalized_name": "documentation",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "documentation"
+      ]
+    },
+    {
+      "skill_name": "Coordination skills",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "dispatch coordinator",
+    "skill_keywords": [
+      "dispatch planning",
+      "documentation",
+      "coordination"
+    ],
+    "experience_minimum_years": 0
+  }
+}

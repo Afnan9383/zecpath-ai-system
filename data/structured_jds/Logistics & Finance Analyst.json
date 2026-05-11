@@ -1,0 +1,85 @@
+{
+  "job_id": "logistics_&_finance_analyst",
+  "source_file": "Logistics & Finance Analyst.txt",
+  "role_name": "Logistics & Finance Analyst",
+  "role_family": "Analyst",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "raw_text": "Experience: 3-8 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 5.5,
+    "maximum_lpa": 13.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 5.5 LPA - INR 13.0 LPA"
+  },
+  "job_description": "Analyzes logistics costs, budgets, and financial performance to improve cost efficiency and\nprofitability.",
+  "responsibilities": [
+    "Analyze logistics and transportation costs",
+    "Prepare budgets and financial reports",
+    "Identify cost-saving opportunities",
+    "Monitor freight and operational expenses",
+    "Support financial planning and forecasting"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Financial analysis",
+      "normalized_name": "financial analysis",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "accounting basics",
+      "normalized_name": "accounting basics",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Excel",
+      "normalized_name": "excel",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "excel"
+      ]
+    },
+    {
+      "skill_name": "BI tools",
+      "normalized_name": "bi tools",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "reporting",
+      "normalized_name": "reporting",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Cost optimization",
+      "normalized_name": "cost optimization",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "analytical thinking",
+      "normalized_name": "analytical thinking",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "logistics & finance analyst",
+    "skill_keywords": [
+      "financial analysis",
+      "accounting basics",
+      "excel",
+      "bi tools",
+      "reporting",
+      "cost optimization",
+      "analytical thinking"
+    ],
+    "experience_minimum_years": 3
+  }
+}

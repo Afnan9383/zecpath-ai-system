@@ -1,0 +1,92 @@
+{
+  "job_id": "offshore_logistics_coordinator",
+  "source_file": "Offshore Logistics Coordinator.txt",
+  "role_name": "Offshore Logistics Coordinator",
+  "role_family": "Coordinator",
+  "experience_required": {
+    "minimum_years": 3,
+    "maximum_years": 10,
+    "raw_text": "Experience: 3-10 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 6.0,
+    "maximum_lpa": 18.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 6.0 LPA - INR 18.0 LPA"
+  },
+  "job_description": "Coordinates logistics operations for offshore facilities such as oil rigs, ensuring timely\ndelivery of equipment, supplies, and personnel.",
+  "responsibilities": [
+    "Plan and coordinate offshore supply operations",
+    "Manage vessel and helicopter logistics",
+    "Ensure timely delivery of materials to offshore platforms",
+    "Coordinate with offshore teams and onshore bases",
+    "Maintain safety and regulatory compliance",
+    "Handle emergency logistics requirements"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Offshore logistics",
+      "normalized_name": "logistics",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "logistics"
+      ]
+    },
+    {
+      "skill_name": "marine operations knowledge",
+      "normalized_name": "marine operations knowledge",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Coordination with vessels",
+      "normalized_name": "coordination",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "coordination"
+      ]
+    },
+    {
+      "skill_name": "Safety",
+      "normalized_name": "safety",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "compliance awareness",
+      "normalized_name": "compliance",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "compliance"
+      ]
+    },
+    {
+      "skill_name": "Strong communication",
+      "normalized_name": "strong communication",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "problem-solving skills",
+      "normalized_name": "problem solving",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "problem-solving"
+      ]
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "offshore logistics coordinator",
+    "skill_keywords": [
+      "logistics",
+      "marine operations knowledge",
+      "coordination",
+      "safety",
+      "compliance",
+      "strong communication",
+      "problem solving"
+    ],
+    "experience_minimum_years": 3
+  }
+}

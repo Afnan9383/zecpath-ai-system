@@ -1,0 +1,16 @@
+57. Logistics Analyst
+Experience: 2–6 years
+Salary (India): ₹4.5 LPA – ₹10.0 LPA
+Job Description:
+Analyzes logistics operations to improve efficiency, reduce costs, and enhance service levels
+using data-driven insights.
+Key Responsibilities:
+• Analyze transportation and warehouse data
+• Identify inefficiencies and cost-saving opportunities
+• Track KPIs such as delivery time and cost per shipment
+• Prepare dashboards and reports
+• Support logistics strategy and decision-making
+Skills Required:
+• Data analysis (Excel, SQL, Power BI/Tableau)
+• Logistics process knowledge
+• Problem-solving and analytical thinking

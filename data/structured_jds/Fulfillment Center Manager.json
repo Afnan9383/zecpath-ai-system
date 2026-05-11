@@ -1,0 +1,86 @@
+{
+  "job_id": "fulfillment_center_manager",
+  "source_file": "Fulfillment Center Manager.txt",
+  "role_name": "Fulfillment Center Manager",
+  "role_family": "Manager",
+  "experience_required": {
+    "minimum_years": 6,
+    "maximum_years": 12,
+    "raw_text": "Experience: 6-12 years"
+  },
+  "salary_range": {
+    "minimum_lpa": 8.0,
+    "maximum_lpa": 20.0,
+    "currency": "INR",
+    "raw_text": "Salary (India): INR 8.0 LPA - INR 20.0 LPA"
+  },
+  "job_description": "Manages operations of fulfillment centers, ensuring efficient order processing, packaging,\nand delivery in high-volume environments (especially e-commerce).",
+  "responsibilities": [
+    "Oversee end-to-end fulfillment operations",
+    "Manage order processing, picking, packing, and shipping",
+    "Ensure high order accuracy and on-time delivery",
+    "Optimize workforce productivity and automation",
+    "Implement process improvements and technology solutions",
+    "Monitor customer satisfaction and service levels"
+  ],
+  "required_skills": [
+    {
+      "skill_name": "Fulfillment",
+      "normalized_name": "fulfillment",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "e-commerce operations",
+      "normalized_name": "e-commerce operations",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Warehouse automation systems",
+      "normalized_name": "warehouse management",
+      "importance": "mandatory",
+      "matched_synonyms": [
+        "warehouse"
+      ]
+    },
+    {
+      "skill_name": "Team leadership",
+      "normalized_name": "team leadership",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "performance management",
+      "normalized_name": "performance management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "Process improvement",
+      "normalized_name": "process improvement",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    },
+    {
+      "skill_name": "KPI management",
+      "normalized_name": "kpi management",
+      "importance": "mandatory",
+      "matched_synonyms": []
+    }
+  ],
+  "education_preferences": [],
+  "ai_profile": {
+    "normalized_role": "fulfillment center manager",
+    "skill_keywords": [
+      "fulfillment",
+      "e-commerce operations",
+      "warehouse management",
+      "team leadership",
+      "performance management",
+      "process improvement",
+      "kpi management"
+    ],
+    "experience_minimum_years": 6
+  }
+}
