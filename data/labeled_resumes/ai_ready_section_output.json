@@ -1,0 +1,25 @@
+{
+  "candidate_id": "C123",
+  "sections": [
+    {
+      "section": "skills",
+      "content": "Python, SQL, Machine Learning, Power BI",
+      "confidence": 0.95
+    },
+    {
+      "section": "education",
+      "content": "Master of Computer Applications, KMCT College of Engineering",
+      "confidence": 0.90
+    },
+    {
+      "section": "projects",
+      "content": "SignConnect - AI-Powered ASL-to-Text Translator",
+      "confidence": 0.88
+    },
+    {
+      "section": "certifications",
+      "content": "Cyber Security & AI/ML - NIELIT",
+      "confidence": 0.86
+    }
+  ]
+}
