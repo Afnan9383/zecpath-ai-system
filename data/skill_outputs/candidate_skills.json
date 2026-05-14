@@ -1,0 +1,61 @@
+{
+  "candidate_id": "C123",
+  "skills": [
+    {
+      "skill_name": "Python",
+      "normalized_skill": "python",
+      "category": "Programming",
+      "confidence": 0.75,
+      "source": "resume"
+    },
+    {
+      "skill_name": "Django",
+      "normalized_skill": "django",
+      "category": "Backend",
+      "confidence": 0.75,
+      "source": "resume"
+    },
+    {
+      "skill_name": "Communication",
+      "normalized_skill": "communication",
+      "category": "Soft Skill",
+      "confidence": 0.75,
+      "source": "resume"
+    },
+    {
+      "skill_name": "Leadership",
+      "normalized_skill": "leadership",
+      "category": "Soft Skill",
+      "confidence": 0.75,
+      "source": "resume"
+    },
+    {
+      "skill_name": "Mongodb",
+      "normalized_skill": "mongodb",
+      "category": "Database",
+      "confidence": 0.75,
+      "source": "stack_detected"
+    },
+    {
+      "skill_name": "Express",
+      "normalized_skill": "express",
+      "category": "Backend",
+      "confidence": 0.75,
+      "source": "stack_detected"
+    },
+    {
+      "skill_name": "React",
+      "normalized_skill": "react",
+      "category": "Frontend",
+      "confidence": 0.75,
+      "source": "stack_detected"
+    },
+    {
+      "skill_name": "Node",
+      "normalized_skill": "node",
+      "category": "Backend",
+      "confidence": 0.75,
+      "source": "stack_detected"
+    }
+  ]
+}
