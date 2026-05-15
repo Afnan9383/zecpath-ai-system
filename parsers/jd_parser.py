@@ -1,4 +1,4 @@
-﻿import json
+import json
 import re
 from pathlib import Path
 from typing import Any
@@ -62,6 +62,7 @@ def normalize_jd_text(raw_text: str) -> str:
         "\u20b9": "INR ",
         "\t": " ",
     }
+
     for old_value, new_value in replacements.items():
         text = text.replace(old_value, new_value)
 
@@ -70,28 +71,13 @@ def normalize_jd_text(raw_text: str) -> str:
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = re.sub(r"[^\S\n]+", " ", text)
 
-    headings = [
-        "experience",
-        "salary",
-        "salary (india)",
-        "job description",
-        "key responsibilities",
-        "skills required",
-        "education",
-        "qualification",
-        "qualifications",
-    ]
-
-    for heading in headings:
-        pattern = rf"(?im)^\s*{re.escape(heading)}\s*:?\s*$"
-        text = re.sub(pattern, heading.upper(), text)
-
     return text.strip()
 
 
 def extract_role_name(cleaned_text: str, fallback_name: str = "") -> str:
     first_line = cleaned_text.splitlines()[0].strip() if cleaned_text.strip() else fallback_name
     first_line = re.sub(r"^\d+\.\s*", "", first_line)
+
     return first_line or fallback_name
 
 
@@ -158,7 +144,9 @@ def extract_section(cleaned_text: str, start_heading: str, end_headings: list[st
 
     end_pattern = "|".join(re.escape(heading) for heading in end_headings)
     pattern = rf"(?is){re.escape(start_heading)}\s*:?\s*(.*?)(?:\n(?:{end_pattern})\s*:?\s*|\Z)"
+
     match = re.search(pattern, cleaned_text)
+
     return match.group(1).strip() if match else ""
 
 
@@ -183,11 +171,13 @@ def extract_bullet_items(section_text: str, split_commas: bool = False) -> list[
 def normalize_skill(skill_text: str) -> dict[str, Any]:
     skill_text = re.sub(r"^(and|or)\s+", "", skill_text.strip(), flags=re.IGNORECASE)
     skill_lower = skill_text.lower().strip(" .")
+
     normalized_name = skill_lower
     matched_synonyms = []
 
     for synonym, canonical_name in sorted(SKILL_SYNONYMS.items(), key=lambda item: len(item[0]), reverse=True):
         synonym_pattern = rf"(?<![a-z0-9]){re.escape(synonym)}(?![a-z0-9])"
+
         if re.search(synonym_pattern, skill_lower):
             normalized_name = canonical_name
             matched_synonyms.append(synonym)
@@ -224,6 +214,7 @@ def extract_required_skills(cleaned_text: str) -> list[dict[str, Any]]:
 
 def extract_responsibilities(cleaned_text: str) -> list[str]:
     section = extract_section(cleaned_text, "Key Responsibilities", ["Skills Required"])
+
     return extract_bullet_items(section)
 
 
@@ -245,38 +236,42 @@ def extract_education_preferences(cleaned_text: str) -> list[str]:
 
 def parse_job_description_text(raw_text: str, source_file: str = "") -> dict[str, Any]:
     cleaned_text = normalize_jd_text(raw_text)
+
     source_path = Path(source_file)
     role_name = extract_role_name(cleaned_text, source_path.stem)
 
-    job_profile = {
+    required_skills = extract_required_skills(cleaned_text)
+    experience_required = extract_experience_requirement(cleaned_text)
+
+    return {
         "job_id": source_path.stem.lower().replace(" ", "_") if source_file else "",
         "source_file": source_path.name if source_file else "",
         "role_name": role_name,
         "role_family": extract_role_family(role_name),
-        "experience_required": extract_experience_requirement(cleaned_text),
+        "experience_required": experience_required,
         "salary_range": extract_salary_range(cleaned_text),
         "job_description": extract_job_description(cleaned_text),
         "responsibilities": extract_responsibilities(cleaned_text),
-        "required_skills": extract_required_skills(cleaned_text),
+        "required_skills": required_skills,
         "education_preferences": extract_education_preferences(cleaned_text),
         "ai_profile": {
             "normalized_role": role_name.lower(),
             "skill_keywords": [
-                skill["normalized_name"] for skill in extract_required_skills(cleaned_text)
+                skill["normalized_name"] for skill in required_skills
             ],
-            "experience_minimum_years": extract_experience_requirement(cleaned_text)["minimum_years"],
+            "experience_minimum_years": experience_required["minimum_years"],
         },
     }
-
-    return job_profile
 
 
 def parse_job_description_file(file_path: str) -> dict[str, Any]:
     path = Path(file_path)
+
     raw_text = path.read_text(encoding="utf-8", errors="ignore")
     parsed_jd = parse_job_description_text(raw_text, str(path))
 
     logger.info(f"Job description parsed successfully: {path}")
+
     return parsed_jd
 
 
@@ -292,6 +287,7 @@ def save_structured_jd(input_file: str, output_folder: str = "data/structured_jd
     )
 
     logger.info(f"Structured JD saved: {output_path}")
+
     return str(output_path)
 
 
@@ -303,10 +299,5 @@ def save_all_structured_jds(input_folder: str = "data/JD", output_folder: str = 
         output_paths.append(save_structured_jd(str(jd_file), output_folder))
 
     logger.info(f"Total structured JDs saved: {len(output_paths)}")
+
     return output_paths
-
-
-
-
-
-

@@ -1,0 +1,32 @@
+{
+  "candidate_id": "C123",
+  "target_role": "Data Scientist",
+  "experience_summary": {
+    "job_titles": [
+      "Data Scientist",
+      "Intern",
+      "Python Developer"
+    ],
+    "company_names": [
+      "ABC Analytics 2023 - 2024 Worked on machine learning models",
+      "TechSoft Solutions 2021 - 2023 Developed backend APIs and automated reporting tools."
+    ],
+    "employment_years_found": [
+      2023,
+      2024,
+      2021,
+      2023
+    ],
+    "total_experience_years": 3.0,
+    "experience_gaps": [
+      "Gap detected between 2021 and 2023"
+    ],
+    "role_relevance_score": 80.0
+  },
+  "experience_text": [
+    "Data Scientist Intern at ABC Analytics 2023 - 2024",
+    "Worked on machine learning models, Python data pipelines, and AI dashboards.",
+    "Python Developer at TechSoft Solutions 2021 - 2023",
+    "Developed backend APIs and automated reporting tools."
+  ]
+}
