@@ -1,0 +1,31 @@
+{
+  "candidate_id": "C123",
+  "job_id": "J456",
+  "role_name": "Data Scientist",
+  "weights_used": {
+    "skill_match": 0.35,
+    "experience_relevance": 0.25,
+    "education_alignment": 0.2,
+    "semantic_similarity": 0.2
+  },
+  "component_scores": {
+    "skill_match": 85.0,
+    "experience_relevance": 78.0,
+    "education_alignment": 90.0,
+    "semantic_similarity": 82.0
+  },
+  "weighted_components": {
+    "skill_match": 29.75,
+    "experience_relevance": 19.5,
+    "education_alignment": 18.0,
+    "semantic_similarity": 16.4
+  },
+  "final_ats_score": 83.65,
+  "fit_category": "Strong Fit",
+  "explanation": [
+    "Skill Match score 85.0 with weight 0.35 contributed 29.75 points.",
+    "Experience Relevance score 78.0 with weight 0.25 contributed 19.5 points.",
+    "Education Alignment score 90.0 with weight 0.2 contributed 18.0 points.",
+    "Semantic Similarity score 82.0 with weight 0.2 contributed 16.4 points."
+  ]
+}

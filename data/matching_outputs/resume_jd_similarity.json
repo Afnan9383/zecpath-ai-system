@@ -1,0 +1,11 @@
+{
+  "candidate_id": "C123",
+  "job_id": "J456",
+  "semantic_scores": {
+    "skill_similarity": 45.89,
+    "experience_similarity": 17.86,
+    "project_similarity": 5.52,
+    "overall_similarity": 28.01
+  },
+  "match_level": "Low Match"
+}

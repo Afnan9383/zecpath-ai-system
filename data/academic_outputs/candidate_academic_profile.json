@@ -1,0 +1,38 @@
+{
+  "candidate_id": "C123",
+  "target_role": "Data Scientist",
+  "education": [
+    {
+      "degree": "Master of Computer Applications",
+      "field_of_study": "Computer Applications",
+      "institution": "KMCT College of Engineering",
+      "graduation_year": 2025,
+      "raw_text": "2023-2025 Master of Computer Applications (MCA), KMCT College of Engineering"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "field_of_study": "Computer Science",
+      "institution": "MAMO College",
+      "graduation_year": 2017,
+      "raw_text": "2014-2017 Bachelor of Science in Mathematics, MAMO College"
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "Cyber Security & AI/ML - NIELIT",
+      "category": "AI/ML",
+      "raw_text": "Cyber Security & AI/ML - NIELIT"
+    },
+    {
+      "certification_name": "Advanced Diploma in Data Science & Artificial Intelligence",
+      "category": "AI/ML",
+      "raw_text": "Advanced Diploma in Data Science & Artificial Intelligence"
+    },
+    {
+      "certification_name": "Power BI Data Analytics Certification",
+      "category": "Data Analytics",
+      "raw_text": "Power BI Data Analytics Certification"
+    }
+  ],
+  "education_relevance_score": 83.33
+}
