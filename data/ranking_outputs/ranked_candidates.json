@@ -1,0 +1,48 @@
+{
+  "shortlisting_threshold": 75,
+  "review_threshold": 50,
+  "summary": {
+    "total_candidates": 4,
+    "shortlisted_count": 2,
+    "review_count": 1,
+    "rejected_count": 1
+  },
+  "ranked_candidates": [
+    {
+      "candidate_id": "C126",
+      "candidate_name": "Arjun",
+      "job_id": "J456",
+      "final_ats_score": 91.0,
+      "fit_category": "Strong Fit",
+      "rank": 1,
+      "status": "Shortlisted"
+    },
+    {
+      "candidate_id": "C123",
+      "candidate_name": "Afnan",
+      "job_id": "J456",
+      "final_ats_score": 86.5,
+      "fit_category": "Strong Fit",
+      "rank": 2,
+      "status": "Shortlisted"
+    },
+    {
+      "candidate_id": "C124",
+      "candidate_name": "Rahul",
+      "job_id": "J456",
+      "final_ats_score": 72.0,
+      "fit_category": "Good Fit",
+      "rank": 3,
+      "status": "Review"
+    },
+    {
+      "candidate_id": "C125",
+      "candidate_name": "Neha",
+      "job_id": "J456",
+      "final_ats_score": 48.0,
+      "fit_category": "Average Fit",
+      "rank": 4,
+      "status": "Rejected"
+    }
+  ]
+}
