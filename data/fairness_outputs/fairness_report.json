@@ -1,0 +1,27 @@
+{
+  "candidate_id": "C123",
+  "normalized_resume_text": "afnan t email masked email phone masked phone gender masked gender python developer with machine learning and data science experience. completed mca and worked on ai projects.",
+  "masked_resume_text": "\nAfnan T\nEmail: [MASKED_EMAIL]\nPhone: [MASKED_PHONE]\nGender: [MASKED_GENDER]\nPython developer with machine learning and data science experience.\nCompleted MCA and worked on AI projects.\n",
+  "normalized_scores": {
+    "skill_match": 88.0,
+    "experience_relevance": 76.0,
+    "education_alignment": 90.0,
+    "semantic_similarity": 82.0
+  },
+  "weights_used": {
+    "skill_match": 0.35,
+    "experience_relevance": 0.25,
+    "education_alignment": 0.2,
+    "semantic_similarity": 0.2
+  },
+  "balanced_score": 84.2,
+  "bias_indicators_detected": [
+    "gender"
+  ],
+  "fairness_notes": [
+    "Personal attributes are masked before evaluation.",
+    "Scores are normalized between 0 and 100.",
+    "Balanced scoring reduces over-dependence on one factor.",
+    "Bias indicators are flagged for review."
+  ]
+}
