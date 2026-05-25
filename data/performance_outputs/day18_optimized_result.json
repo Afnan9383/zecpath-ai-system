@@ -1,0 +1,11 @@
+{
+  "test_name": "Day 18 Optimized Resume Cleaning Benchmark",
+  "input_file": "data/extracted_resumes/sample_resume.txt",
+  "iterations": 1000,
+  "input_characters": 3314,
+  "output_characters": 3314,
+  "total_time_ms": 1694.22,
+  "average_time_per_run_ms": 1.6942,
+  "peak_memory_kb": 41.09,
+  "status": "optimized_result_recorded"
+}

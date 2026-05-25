@@ -1,0 +1,11 @@
+{
+  "test_name": "Day 18 Baseline Resume Cleaning Benchmark",
+  "input_file": "data/extracted_resumes/sample_resume.txt",
+  "iterations": 1000,
+  "input_characters": 3328,
+  "output_characters": 3328,
+  "total_time_ms": 2487.91,
+  "average_time_per_run_ms": 2.4879,
+  "peak_memory_kb": 130.58,
+  "status": "baseline_recorded"
+}

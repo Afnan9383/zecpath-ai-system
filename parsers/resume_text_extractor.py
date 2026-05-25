@@ -6,6 +6,54 @@ from utils.logger import get_logger
 
 logger = get_logger()
 
+NOISE_REPLACEMENTS = {
+    "\u2022": "-",
+    "\u25cf": "-",
+    "\u25aa": "-",
+    "\u25a0": "-",
+    "\u25cb": "-",
+    "\u2013": "-",
+    "\u2014": "-",
+    "\u00a0": " ",
+    "\u00e2\u20ac\u00a2": "-",
+    "\u00e2\u20ac\u201c": "-",
+    "\u00e2\u20ac\u201d": "-",
+    "\u00e2\u2014\u2039": "-",
+    "\u00e2\u201e\u00a2": "",
+    "♂¶obile-alt": "Phone: ",
+    "/envel⌢pe": "Email: ",
+    "obile-alt": "Phone: ",
+    "envel⌢pe": "Email: ",
+
+}
+
+
+TAB_PATTERN = re.compile(r"\t+")
+SPACE_PATTERN = re.compile(r" +")
+BLANK_LINE_PATTERN = re.compile(r"\n{3,}")
+LINE_SPACE_PATTERN = re.compile(r"[^\S\n]+")
+PAGE_NUMBER_PATTERN = re.compile(r"(?m)^\s*\d+\s*/\s*\d+\s*$")
+
+
+SECTION_HEADINGS = [
+    "summary",
+    "profile",
+    "profile summary",
+    "skills",
+    "technical skills",
+    "experience",
+    "work experience",
+    "internships",
+    "education",
+    "projects",
+    "certifications",
+    "achievements",
+    "contact",
+    "personal details",
+    "references",
+]
+
+
 
 def extract_text_from_pdf(file_path: str) -> str:
     text = ""
@@ -54,30 +102,19 @@ def extract_text_from_docx(file_path: str) -> str:
 
 
 def clean_resume_text(raw_text: str) -> str:
-    text = raw_text
+    text = raw_text.replace("\r", "\n")
 
-    text = text.replace("\r", "\n")
-    text = re.sub(r"[•●▪■]", "-", text)
-    text = re.sub(r"\t+", " ", text)
-    text = re.sub(r" +", " ", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    text = re.sub(r"[^\S\n]+", " ", text)
+    for noisy_value, clean_value in NOISE_REPLACEMENTS.items():
+        text = text.replace(noisy_value, clean_value)
 
-    section_headings = [
-        "summary",
-        "profile",
-        "skills",
-        "experience",
-        "work experience",
-        "education",
-        "projects",
-        "certifications",
-        "achievements",
-        "contact"
-    ]
+    text = TAB_PATTERN.sub(" ", text)
+    text = SPACE_PATTERN.sub(" ", text)
+    text = BLANK_LINE_PATTERN.sub("\n\n", text)
+    text = LINE_SPACE_PATTERN.sub(" ", text)
+    text = PAGE_NUMBER_PATTERN.sub("", text)
 
-    for heading in section_headings:
-        pattern = rf"(?im)^\s*{heading}\s*$"
+    for heading in SECTION_HEADINGS:
+        pattern = rf"(?im)^\s*{re.escape(heading)}\s*:?\s*$"
         text = re.sub(pattern, heading.upper(), text)
 
     return text.strip()
