@@ -1,0 +1,11 @@
+{
+    "candidate_id": "C123",
+    "job_id": "J101",
+    "ats_score": 82,
+    "decision": "Eligible",
+    "missing_skills": [],
+    "experience_status": "matched",
+    "location_matched": true,
+    "availability_matched": true,
+    "reasons": []
+}
