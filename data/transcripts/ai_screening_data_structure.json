@@ -1,0 +1,42 @@
+{
+  "screening_session_id": "S001",
+  "candidate_id": "C123",
+  "job_id": "J101",
+  "status": "completed",
+  "overall_confidence": 0.93,
+  "screening_result": {
+    "communication_score": 82,
+    "education_match": true,
+    "experience_match": true,
+    "skill_match": true,
+    "availability_match": true,
+    "salary_match": "review_required",
+    "final_screening_score": 84,
+    "recommendation": "Proceed to HR Interview"
+  },
+  "answers": [
+    {
+      "question_id": "Q001",
+      "category": "Introduction",
+      "normalized_answer": "candidate completed mca and is interested in ai and data science",
+      "answer_type": "open_text",
+      "confidence_level": 0.92,
+      "score": 80,
+      "flags": []
+    },
+    {
+      "question_id": "Q002",
+      "category": "Education",
+      "normalized_answer": "master of computer applications",
+      "answer_type": "degree",
+      "confidence_level": 0.95,
+      "score": 90,
+      "flags": []
+    }
+  ],
+  "metadata": {
+    "model_name": "Zecpath_Screening_AI",
+    "model_version": "v1.0",
+    "processed_at": "2026-06-06T10:15:00Z"
+  }
+}

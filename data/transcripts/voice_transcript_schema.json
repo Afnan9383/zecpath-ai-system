@@ -1,0 +1,29 @@
+{
+  "transcript_id": "T001",
+  "candidate_id": "C123",
+  "job_id": "J101",
+  "screening_session_id": "S001",
+  "language": "en",
+  "started_at": "2026-06-06T10:00:00Z",
+  "completed_at": "2026-06-06T10:12:00Z",
+  "transcript_entries": [
+    {
+      "question_id": "Q001",
+      "question_text": "Please introduce yourself briefly.",
+      "answer_text": "My name is Afnan. I recently completed my MCA and I am interested in AI and data science.",
+      "timestamp": "2026-06-06T10:01:00Z",
+      "confidence_level": 0.92,
+      "speaker": "candidate",
+      "answer_duration_seconds": 35
+    },
+    {
+      "question_id": "Q002",
+      "question_text": "What is your highest educational qualification?",
+      "answer_text": "My highest qualification is Master of Computer Applications.",
+      "timestamp": "2026-06-06T10:02:10Z",
+      "confidence_level": 0.95,
+      "speaker": "candidate",
+      "answer_duration_seconds": 18
+    }
+  ]
+}

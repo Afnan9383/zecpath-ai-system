@@ -1,0 +1,26 @@
+{
+  "required_metadata_fields": {
+    "transcript_id": "Unique ID for each transcript",
+    "candidate_id": "Unique candidate identifier",
+    "job_id": "Unique job identifier",
+    "screening_session_id": "Unique screening call/session identifier",
+    "question_id": "Question asked during screening",
+    "timestamp": "Time when answer was recorded",
+    "confidence_level": "Speech-to-text confidence score",
+    "language": "Language used in screening",
+    "model_version": "Version of AI model used"
+  },
+  "confidence_level_rules": {
+    "high": "0.85 to 1.00",
+    "medium": "0.60 to 0.84",
+    "low": "below 0.60"
+  },
+  "normalization_rules": [
+    "Convert text to lowercase",
+    "Remove unnecessary symbols",
+    "Remove repeated spaces",
+    "Standardize common words and abbreviations",
+    "Tag unclear answers for review",
+    "Keep original transcript separately for audit"
+  ]
+}
