@@ -1,0 +1,46 @@
+[
+    {
+        "candidate_id": "C123",
+        "job_id": "J101",
+        "question_id": "Q001",
+        "audio_file": "sample_intro.wav",
+        "raw_transcript": "Um my name is Afnan and I am interested in AI and data science",
+        "cleaned_transcript": "my name is afnan and i am interested in ai and data science.",
+        "status": "processed",
+        "flags": []
+    },
+    {
+        "candidate_id": "C123",
+        "job_id": "J101",
+        "question_id": "Q003",
+        "audio_file": "sample_experience.wav",
+        "raw_transcript": "Uh I have three years experience in Python and Django",
+        "cleaned_transcript": "i have three years experience in python and django.",
+        "status": "processed",
+        "flags": []
+    },
+    {
+        "candidate_id": "C123",
+        "job_id": "J101",
+        "question_id": "Q004",
+        "audio_file": "sample_silence.wav",
+        "raw_transcript": "",
+        "cleaned_transcript": "",
+        "status": "silence_detected",
+        "flags": [
+            "No speech detected"
+        ]
+    },
+    {
+        "candidate_id": "C123",
+        "job_id": "J101",
+        "question_id": "Q009",
+        "audio_file": "sample_partial.wav",
+        "raw_transcript": "I think maybe I can join next month",
+        "cleaned_transcript": "i think maybe i can join next month.",
+        "status": "processed",
+        "flags": [
+            "Partial or uncertain answer detected"
+        ]
+    }
+]
