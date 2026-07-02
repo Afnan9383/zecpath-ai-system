@@ -1,0 +1,105 @@
+{
+    "final_screening_score": 80.75,
+    "decision": "Proceed to HR Interview",
+    "total_questions": 5,
+    "scored_answers": [
+        {
+            "question_id": "Q001",
+            "expected_intent": "self_introduction",
+            "actual_intent": "self_introduction",
+            "scores": {
+                "clarity": 100,
+                "relevance": 100,
+                "completeness": 65,
+                "consistency": 90
+            },
+            "question_score": 89.75,
+            "flags": [],
+            "explanation": [
+                "Answer is clear.",
+                "Answer is relevant to the question.",
+                "Answer is missing some important details.",
+                "Answer appears consistent."
+            ]
+        },
+        {
+            "question_id": "Q003",
+            "expected_intent": "experience_info",
+            "actual_intent": "experience_info",
+            "scores": {
+                "clarity": 100,
+                "relevance": 100,
+                "completeness": 80,
+                "consistency": 90
+            },
+            "question_score": 93.5,
+            "flags": [],
+            "explanation": [
+                "Answer is clear.",
+                "Answer is relevant to the question.",
+                "Answer contains enough useful information.",
+                "Answer appears consistent."
+            ]
+        },
+        {
+            "question_id": "Q009",
+            "expected_intent": "availability_info",
+            "actual_intent": "availability_info",
+            "scores": {
+                "clarity": 80,
+                "relevance": 100,
+                "completeness": 60,
+                "consistency": 90
+            },
+            "question_score": 83.5,
+            "flags": [],
+            "explanation": [
+                "Answer is clear.",
+                "Answer is relevant to the question.",
+                "Answer is missing some important details.",
+                "Answer appears consistent."
+            ]
+        },
+        {
+            "question_id": "Q008",
+            "expected_intent": "salary_info",
+            "actual_intent": "salary_info",
+            "scores": {
+                "clarity": 100,
+                "relevance": 100,
+                "completeness": 60,
+                "consistency": 90
+            },
+            "question_score": 88.5,
+            "flags": [],
+            "explanation": [
+                "Answer is clear.",
+                "Answer is relevant to the question.",
+                "Answer is missing some important details.",
+                "Answer appears consistent."
+            ]
+        },
+        {
+            "question_id": "Q010",
+            "expected_intent": "availability_info",
+            "actual_intent": "self_introduction",
+            "scores": {
+                "clarity": 60,
+                "relevance": 60,
+                "completeness": 20,
+                "consistency": 50
+            },
+            "question_score": 48.5,
+            "flags": [
+                "vague_or_missing_answer"
+            ],
+            "explanation": [
+                "Answer clarity needs improvement.",
+                "Answer relevance is low or unclear.",
+                "Answer is missing some important details.",
+                "Answer may be vague, unclear, or off-topic.",
+                "Flags detected: vague_or_missing_answer."
+            ]
+        }
+    ]
+}
