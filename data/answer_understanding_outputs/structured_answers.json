@@ -1,0 +1,89 @@
+[
+    {
+        "question_id": "Q001",
+        "original_answer": "My name is Afnan and I am interested in AI and Data Science.",
+        "normalized_answer": "my name is afnan and i am interested in ai and data science.",
+        "intent": "self_introduction",
+        "skills": [
+            "data science"
+        ],
+        "experience_years": null,
+        "availability": null,
+        "salary_expectation": null,
+        "is_off_topic": false,
+        "is_vague": false,
+        "flags": []
+    },
+    {
+        "question_id": "Q003",
+        "original_answer": "I have three years experience in Python and Django.",
+        "normalized_answer": "i have three years experience in python and django.",
+        "intent": "experience_info",
+        "skills": [
+            "python",
+            "django"
+        ],
+        "experience_years": 3,
+        "availability": null,
+        "salary_expectation": null,
+        "is_off_topic": false,
+        "is_vague": false,
+        "flags": []
+    },
+    {
+        "question_id": "Q009",
+        "original_answer": "I can join immediately.",
+        "normalized_answer": "i can join immediately.",
+        "intent": "availability_info",
+        "skills": [],
+        "experience_years": null,
+        "availability": "Immediate",
+        "salary_expectation": null,
+        "is_off_topic": false,
+        "is_vague": false,
+        "flags": []
+    },
+    {
+        "question_id": "Q008",
+        "original_answer": "My expected salary is 6 LPA.",
+        "normalized_answer": "my expected salary is 6 lpa.",
+        "intent": "salary_info",
+        "skills": [],
+        "experience_years": null,
+        "availability": null,
+        "salary_expectation": "6 lpa",
+        "is_off_topic": false,
+        "is_vague": false,
+        "flags": []
+    },
+    {
+        "question_id": "Q010",
+        "original_answer": "Maybe I am not sure.",
+        "normalized_answer": "maybe i am not sure.",
+        "intent": "self_introduction",
+        "skills": [],
+        "experience_years": null,
+        "availability": null,
+        "salary_expectation": null,
+        "is_off_topic": false,
+        "is_vague": true,
+        "flags": [
+            "vague_or_missing_answer"
+        ]
+    },
+    {
+        "question_id": "Q011",
+        "original_answer": "I like movies and music.",
+        "normalized_answer": "i like movies and music.",
+        "intent": "unknown",
+        "skills": [],
+        "experience_years": null,
+        "availability": null,
+        "salary_expectation": null,
+        "is_off_topic": true,
+        "is_vague": false,
+        "flags": [
+            "off_topic_response"
+        ]
+    }
+]
