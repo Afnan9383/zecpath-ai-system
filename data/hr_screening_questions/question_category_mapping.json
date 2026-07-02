@@ -1,0 +1,52 @@
+{
+  "Introduction": {
+    "purpose": "Understand candidate background and communication ability",
+    "example_questions": ["Please introduce yourself briefly."],
+    "importance": "high"
+  },
+  "Education": {
+    "purpose": "Verify academic qualification and degree alignment",
+    "example_questions": ["What is your highest educational qualification?"],
+    "importance": "medium"
+  },
+  "Experience": {
+    "purpose": "Understand work history, role relevance, and responsibility level",
+    "example_questions": ["How many years of relevant work experience do you have?"],
+    "importance": "high"
+  },
+  "Skills": {
+    "purpose": "Validate technical and role-specific skills",
+    "example_questions": ["Which technical skills are you most confident in?"],
+    "importance": "high"
+  },
+  "Location": {
+    "purpose": "Check candidate location, relocation, and work mode suitability",
+    "example_questions": ["What is your current location?"],
+    "importance": "medium"
+  },
+  "Salary": {
+    "purpose": "Understand salary expectation and budget fit",
+    "example_questions": ["What is your expected salary?"],
+    "importance": "medium"
+  },
+  "Notice Period": {
+    "purpose": "Check joining timeline and availability",
+    "example_questions": ["What is your notice period?"],
+    "importance": "high"
+  },
+  "Availability": {
+    "purpose": "Confirm joining readiness",
+    "example_questions": ["When can you join if selected?"],
+    "importance": "high"
+  },
+  "Career Goals": {
+    "purpose": "Understand candidate motivation and role interest",
+    "example_questions": ["Why are you interested in this role?"],
+    "importance": "medium"
+  },
+  "Communication": {
+    "purpose": "Check communication comfort and workplace readiness",
+    "example_questions": ["Are you comfortable communicating in English?"],
+    "importance": "medium"
+  }
+}

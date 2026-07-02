@@ -1,0 +1,71 @@
+{
+  "conversation_flow_name": "Zecpath AI HR Screening Flow",
+  "version": "v1.0",
+  "language_support": ["en", "hi", "ml"],
+  "conversation_objects": [
+    {
+      "step": 1,
+      "question_id": "Q001",
+      "bot_prompt": "Hi, welcome to the Zecpath screening process. Please introduce yourself briefly.",
+      "expected_answer_type": "open_text",
+      "mandatory": true,
+      "next_step": 2
+    },
+    {
+      "step": 2,
+      "question_id": "Q002",
+      "bot_prompt": "Thank you. What is your highest educational qualification?",
+      "expected_answer_type": "degree",
+      "mandatory": true,
+      "next_step": 3
+    },
+    {
+      "step": 3,
+      "question_id": "Q003",
+      "bot_prompt": "How many years of relevant work experience do you have?",
+      "expected_answer_type": "number",
+      "mandatory": true,
+      "next_step": 4
+    },
+    {
+      "step": 4,
+      "question_id": "Q004",
+      "bot_prompt": "Which technical or role-related skills are you most confident in?",
+      "expected_answer_type": "list",
+      "mandatory": true,
+      "next_step": 5
+    },
+    {
+      "step": 5,
+      "question_id": "Q006",
+      "bot_prompt": "What is your current location?",
+      "expected_answer_type": "location",
+      "mandatory": true,
+      "next_step": 6
+    },
+    {
+      "step": 6,
+      "question_id": "Q008",
+      "bot_prompt": "What is your expected salary?",
+      "expected_answer_type": "currency",
+      "mandatory": true,
+      "next_step": 7
+    },
+    {
+      "step": 7,
+      "question_id": "Q009",
+      "bot_prompt": "What is your notice period?",
+      "expected_answer_type": "duration",
+      "mandatory": true,
+      "next_step": 8
+    },
+    {
+      "step": 8,
+      "question_id": "Q014",
+      "bot_prompt": "Why are you interested in this role?",
+      "expected_answer_type": "open_text",
+      "mandatory": false,
+      "next_step": "end"
+    }
+  ]
+}

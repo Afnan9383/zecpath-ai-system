@@ -1,0 +1,142 @@
+{
+  "dataset_name": "Zecpath HR Screening Question Dataset",
+  "version": "v1.0",
+  "language": "en",
+  "questions": [
+    {
+      "question_id": "Q001",
+      "category": "Introduction",
+      "question_text": "Please introduce yourself briefly.",
+      "expected_answer_type": "open_text",
+      "mandatory": true,
+      "scoring_importance": "high",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q002",
+      "category": "Education",
+      "question_text": "What is your highest educational qualification?",
+      "expected_answer_type": "degree",
+      "mandatory": true,
+      "scoring_importance": "medium",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q003",
+      "category": "Experience",
+      "question_text": "How many years of relevant work experience do you have?",
+      "expected_answer_type": "number",
+      "mandatory": true,
+      "scoring_importance": "high",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q004",
+      "category": "Skills",
+      "question_text": "Which technical skills are you most confident in?",
+      "expected_answer_type": "list",
+      "mandatory": true,
+      "scoring_importance": "high",
+      "roles": ["technical"]
+    },
+    {
+      "question_id": "Q005",
+      "category": "Skills",
+      "question_text": "Can you explain one project where you used your main skills?",
+      "expected_answer_type": "open_text",
+      "mandatory": true,
+      "scoring_importance": "high",
+      "roles": ["technical"]
+    },
+    {
+      "question_id": "Q006",
+      "category": "Location",
+      "question_text": "What is your current location?",
+      "expected_answer_type": "location",
+      "mandatory": true,
+      "scoring_importance": "medium",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q007",
+      "category": "Location",
+      "question_text": "Are you willing to relocate if required?",
+      "expected_answer_type": "yes_no",
+      "mandatory": false,
+      "scoring_importance": "medium",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q008",
+      "category": "Salary",
+      "question_text": "What is your expected salary?",
+      "expected_answer_type": "currency",
+      "mandatory": true,
+      "scoring_importance": "medium",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q009",
+      "category": "Notice Period",
+      "question_text": "What is your notice period?",
+      "expected_answer_type": "duration",
+      "mandatory": true,
+      "scoring_importance": "high",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q010",
+      "category": "Availability",
+      "question_text": "When can you join if selected?",
+      "expected_answer_type": "date_or_duration",
+      "mandatory": true,
+      "scoring_importance": "high",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q011",
+      "category": "Experience",
+      "question_text": "Describe your most recent job role and responsibilities.",
+      "expected_answer_type": "open_text",
+      "mandatory": true,
+      "scoring_importance": "high",
+      "roles": ["experienced"]
+    },
+    {
+      "question_id": "Q012",
+      "category": "Experience",
+      "question_text": "Have you worked in a team environment before?",
+      "expected_answer_type": "yes_no_with_explanation",
+      "mandatory": false,
+      "scoring_importance": "medium",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q013",
+      "category": "Skills",
+      "question_text": "Which tools or software have you used related to this role?",
+      "expected_answer_type": "list",
+      "mandatory": true,
+      "scoring_importance": "high",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q014",
+      "category": "Career Goals",
+      "question_text": "Why are you interested in this role?",
+      "expected_answer_type": "open_text",
+      "mandatory": false,
+      "scoring_importance": "medium",
+      "roles": ["all"]
+    },
+    {
+      "question_id": "Q015",
+      "category": "Communication",
+      "question_text": "Are you comfortable communicating with clients or team members in English?",
+      "expected_answer_type": "yes_no",
+      "mandatory": false,
+      "scoring_importance": "medium",
+      "roles": ["all"]
+    }
+  ]
+}
