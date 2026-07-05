@@ -1,0 +1,118 @@
+{
+    "conversation": {
+        "candidate_id": "C123",
+        "job_id": "J101",
+        "current_state": "follow_up",
+        "current_question_index": 0,
+        "questions": [
+            {
+                "question_id": "Q001",
+                "question_text": "Please introduce yourself briefly.",
+                "expected_intent": "self_introduction"
+            },
+            {
+                "question_id": "Q003",
+                "question_text": "How many years of relevant work experience do you have?",
+                "expected_intent": "experience_info"
+            },
+            {
+                "question_id": "Q009",
+                "question_text": "What is your notice period?",
+                "expected_intent": "availability_info"
+            }
+        ],
+        "answers": [
+            {
+                "question_id": "Q001",
+                "original_answer": "",
+                "normalized_answer": "",
+                "intent": "unknown",
+                "skills": [],
+                "experience_years": null,
+                "availability": null,
+                "salary_expectation": null,
+                "is_off_topic": false,
+                "is_vague": true,
+                "flags": [
+                    "vague_or_missing_answer"
+                ]
+            },
+            {
+                "question_id": "Q001",
+                "original_answer": "Maybe I am not sure.",
+                "normalized_answer": "maybe i am not sure.",
+                "intent": "self_introduction",
+                "skills": [],
+                "experience_years": null,
+                "availability": null,
+                "salary_expectation": null,
+                "is_off_topic": false,
+                "is_vague": true,
+                "flags": [
+                    "vague_or_missing_answer"
+                ]
+            },
+            {
+                "question_id": "Q001",
+                "original_answer": "I have three years experience in Python.",
+                "normalized_answer": "i have three years experience in python.",
+                "intent": "experience_info",
+                "skills": [
+                    "python"
+                ],
+                "experience_years": 3,
+                "availability": null,
+                "salary_expectation": null,
+                "is_off_topic": false,
+                "is_vague": false,
+                "flags": []
+            },
+            {
+                "question_id": "Q001",
+                "original_answer": "I can join immediately.",
+                "normalized_answer": "i can join immediately.",
+                "intent": "availability_info",
+                "skills": [],
+                "experience_years": null,
+                "availability": "Immediate",
+                "salary_expectation": null,
+                "is_off_topic": false,
+                "is_vague": false,
+                "flags": []
+            }
+        ],
+        "retry_count": 1,
+        "max_retries": 2,
+        "conversation_status": "active"
+    },
+    "events": [
+        {
+            "question_id": "Q001",
+            "candidate_answer": "",
+            "detected_intent": "unknown",
+            "action": "retry_silence",
+            "ai_prompt": "I could not hear your response. Could you please answer again?"
+        },
+        {
+            "question_id": "Q001",
+            "candidate_answer": "Maybe I am not sure.",
+            "detected_intent": "self_introduction",
+            "action": "fallback_vague",
+            "ai_prompt": "Could you please provide a little more detail?"
+        },
+        {
+            "question_id": "Q001",
+            "candidate_answer": "I have three years experience in Python.",
+            "detected_intent": "experience_info",
+            "action": "follow_up",
+            "ai_prompt": "Can you briefly explain your most relevant work experience?"
+        },
+        {
+            "question_id": "Q001",
+            "candidate_answer": "I can join immediately.",
+            "detected_intent": "availability_info",
+            "action": "follow_up",
+            "ai_prompt": "Can you confirm your exact joining availability?"
+        }
+    ]
+}
