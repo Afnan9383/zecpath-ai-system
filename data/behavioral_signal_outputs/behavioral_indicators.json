@@ -1,0 +1,76 @@
+[
+    {
+        "question_id": "Q001",
+        "answer_text": "I am confident and passionate about AI development.",
+        "response_length_words": 8,
+        "hesitation_patterns": [],
+        "uncertainty_patterns": [],
+        "contradictions": [],
+        "sentiment_score": 70,
+        "sentiment_label": "Positive",
+        "confidence_score": 90,
+        "communication_strength": "Strong",
+        "flags": []
+    },
+    {
+        "question_id": "Q003",
+        "answer_text": "Um I think maybe I have some experience in Python.",
+        "response_length_words": 10,
+        "hesitation_patterns": [
+            "um",
+            "maybe",
+            "i think"
+        ],
+        "uncertainty_patterns": [
+            "maybe",
+            "i think"
+        ],
+        "contradictions": [],
+        "sentiment_score": 50,
+        "sentiment_label": "Neutral",
+        "confidence_score": 46,
+        "communication_strength": "Weak",
+        "flags": [
+            "hesitation_detected",
+            "uncertainty_detected"
+        ]
+    },
+    {
+        "question_id": "Q009",
+        "answer_text": "I can join immediately but maybe after 30 days.",
+        "response_length_words": 9,
+        "hesitation_patterns": [
+            "maybe"
+        ],
+        "uncertainty_patterns": [
+            "maybe"
+        ],
+        "contradictions": [
+            "Contradiction detected between 'immediate' and '30 days'"
+        ],
+        "sentiment_score": 50,
+        "sentiment_label": "Neutral",
+        "confidence_score": 57,
+        "communication_strength": "Moderate",
+        "flags": [
+            "hesitation_detected",
+            "uncertainty_detected",
+            "contradiction_detected"
+        ]
+    },
+    {
+        "question_id": "Q010",
+        "answer_text": "Yes.",
+        "response_length_words": 1,
+        "hesitation_patterns": [],
+        "uncertainty_patterns": [],
+        "contradictions": [],
+        "sentiment_score": 50,
+        "sentiment_label": "Neutral",
+        "confidence_score": 55,
+        "communication_strength": "Moderate",
+        "flags": [
+            "short_response"
+        ]
+    }
+]
